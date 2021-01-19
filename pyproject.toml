@@ -1,0 +1,7 @@
+[tool.pylint.format]
+# Changes pylint' default line-too-long convention of 100 to match black's 88
+max-line-length = 88
+
+# Regex for additional exclusion of pure string assignments and long strings in lists
+# Provided by tedivm(https://github.com/PyCQA/pylint/issues/2178#issuecomment-533695751)
+ignore-long-lines = '^\s*(# )?<?https?://\S+>?$|^\s*(\w*\s*=\s*)?(\"|\').*(\"|\'),?\s*$'
