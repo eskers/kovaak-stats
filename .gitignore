@@ -3,3 +3,6 @@ venv
 
 # vscode workspace settings
 .vscode
+
+# data files created when running program
+data.json
