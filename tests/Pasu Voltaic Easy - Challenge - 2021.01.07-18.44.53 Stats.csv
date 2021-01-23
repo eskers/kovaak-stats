@@ -1,0 +1,62 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:43:57.069,test,pistol,2.552s,4,1,0.25,1000,8000,0.125,false
+2,18:43:58.045,test,pistol,0s,1,1,1,1000,2000,0.5,false
+3,18:44:00.642,test,pistol,1.749s,4,1,0.25,1000,8000,0.125,false
+4,18:44:09.855,test,pistol,8.368s,11,1,0.091,1000,22000,0.045,false
+5,18:44:10.686,test,pistol,0s,1,1,1,1000,2000,0.5,false
+6,18:44:11.327,test,pistol,0s,1,1,1,1000,2000,0.5,false
+7,18:44:12.559,test,pistol,0s,1,1,1,1000,2000,0.5,false
+8,18:44:16.150,test,pistol,2.721s,4,1,0.25,1000,8000,0.125,false
+9,18:44:17.025,test,pistol,0s,1,1,1,1000,2000,0.5,false
+10,18:44:17.686,test,pistol,0s,1,1,1,1000,2000,0.5,false
+11,18:44:17.900,test,pistol,0s,1,1,1,1000,2000,0.5,false
+12,18:44:23.290,test,pistol,3.912s,6,1,0.167,1000,12000,0.083,false
+13,18:44:24.614,test,pistol,0s,1,1,1,1000,2000,0.5,false
+14,18:44:28.546,test,pistol,3.241s,5,1,0.2,1000,10000,0.1,false
+15,18:44:29.849,test,pistol,0.669s,2,1,0.5,1000,4000,0.25,false
+16,18:44:30.480,test,pistol,0s,1,1,1,1000,2000,0.5,false
+17,18:44:31.382,test,pistol,0s,1,1,1,1000,2000,0.5,false
+18,18:44:31.812,test,pistol,0s,1,1,1,1000,2000,0.5,false
+19,18:44:35.984,test,pistol,3.207s,4,1,0.25,1000,8000,0.125,false
+20,18:44:41.256,test,pistol,4.342s,6,1,0.167,1000,12000,0.083,false
+21,18:44:41.903,test,pistol,0s,1,1,1,1000,2000,0.5,false
+22,18:44:42.742,test,pistol,0s,1,1,1,1000,2000,0.5,false
+23,18:44:43.553,test,pistol,0s,1,1,1,1000,2000,0.5,false
+24,18:44:49.303,test,pistol,4.806s,8,1,0.125,1000,16000,0.062,false
+25,18:44:49.993,test,pistol,0s,1,1,1,1000,2000,0.5,false
+26,18:44:52.929,test,pistol,2.13s,5,1,0.2,1000,10000,0.1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,74,26,26000.0,148000.0,
+Track Master 100,0,0,0.0,0.0,
+
+Kills:,26
+Deaths:,0
+Fight Time:,37.696999
+Avg TTK:,0
+Damage Done:,26000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,26.0
+Scenario:,Pasu Voltaic Easy
+Hash:,5a37871c13f7eff0d98736993c7d65a0
+Game Version:,2.0.3.1
+Challenge Start:,18:43:53.698
+
+Input Lag:,0
+Max FPS (config):,166.0
+Sens Scale:,Valorant
+Horiz Sens:,0.335
+Vert Sens:,0.335
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,235.585724
+Resolution Scale,100.0

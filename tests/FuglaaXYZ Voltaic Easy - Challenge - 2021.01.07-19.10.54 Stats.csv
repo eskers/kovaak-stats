@@ -1,0 +1,35 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,29310,5980,5980.0,29310.0,
+
+Kills:,0
+Deaths:,0
+Fight Time:,0.0
+Avg TTK:,0
+Damage Done:,5980.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,5980.0
+Scenario:,FuglaaXYZ Voltaic Easy
+Hash:,ecf781bded339955311804533bdc3eaa
+Game Version:,2.0.3.1
+Challenge Start:,19:09:54.901
+
+Input Lag:,0
+Max FPS (config):,166.0
+Sens Scale:,Valorant
+Horiz Sens:,0.335
+Vert Sens:,0.335
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,165.210571
+Resolution Scale,100.0

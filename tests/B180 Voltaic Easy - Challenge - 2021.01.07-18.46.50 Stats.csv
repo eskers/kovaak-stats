@@ -1,0 +1,55 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:45:52.314,Mid,pistol,0s,1,1,1,50,125,0.4,false
+2,18:45:53.687,High,pistol,0s,1,1,1,50,125,0.4,false
+3,18:45:57.971,Mid,pistol,3.029s,4,1,0.25,50,500,0.1,false
+4,18:46:00.233,Low,pistol,0.359s,2,1,0.5,50,250,0.2,false
+5,18:46:01.450,Mid,pistol,0.284s,2,1,0.5,50,250,0.2,false
+6,18:46:03.821,Low,pistol,0.988s,2,1,0.5,50,250,0.2,false
+7,18:46:04.514,Low,pistol,0s,1,1,1,50,125,0.4,false
+8,18:46:07.953,Mid,pistol,1.201s,3,1,0.333,50,375,0.133,false
+9,18:46:16.830,High,pistol,7.942s,10,1,0.1,50,1250,0.04,false
+10,18:46:21.066,Mid,pistol,2.949s,6,1,0.167,50,750,0.067,false
+11,18:46:23.265,Low,pistol,0s,1,1,1,50,125,0.4,false
+12,18:46:27.715,High,pistol,2.976s,5,1,0.2,50,625,0.08,false
+13,18:46:28.759,Mid,pistol,0s,1,1,1,50,125,0.4,false
+14,18:46:30.205,Mid,pistol,0s,1,1,1,50,125,0.4,false
+15,18:46:31.405,Low,pistol,0s,1,1,1,50,125,0.4,false
+16,18:46:35.745,Mid,pistol,2.805s,4,1,0.25,50,500,0.1,false
+17,18:46:36.868,High,pistol,0s,1,1,1,50,125,0.4,false
+18,18:46:40.980,Mid,pistol,2.88s,4,1,0.25,50,500,0.1,false
+19,18:46:43.723,Mid,pistol,1.535s,2,1,0.5,50,250,0.2,false
+20,18:46:49.896,Mid,pistol,5.573s,7,1,0.143,50,875,0.057,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,59,20,1000.0,7375.0,
+
+Kills:,20
+Deaths:,0
+Fight Time:,32.521
+Avg TTK:,0
+Damage Done:,1000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,20.0
+Scenario:,B180 Voltaic Easy
+Hash:,b68f1591dc268a022956ca3e33e67a29
+Game Version:,2.0.3.1
+Challenge Start:,18:45:50.912
+
+Input Lag:,0
+Max FPS (config):,166.0
+Sens Scale:,Valorant
+Horiz Sens:,0.335
+Vert Sens:,0.335
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,193.600494
+Resolution Scale,100.0

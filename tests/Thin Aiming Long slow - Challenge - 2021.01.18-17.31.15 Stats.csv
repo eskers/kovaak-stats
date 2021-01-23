@@ -1,0 +1,41 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:30:24.269,Thin very long strafe,Track Master 100,6.687s,670,200,0.299,200,670,0.299,false
+2,17:30:35.066,Thin very long strafe,Track Master 100,7.699s,771,200,0.259,200,771,0.259,false
+3,17:30:44.815,Thin very long strafe,Track Master 100,9.498s,730,200,0.274,200,730,0.274,false
+4,17:30:54.000,Thin very long strafe,Track Master 100,6.955s,697,200,0.287,200,697,0.287,false
+5,17:31:04.178,Thin very long strafe,Track Master 100,9.925s,704,200,0.284,200,704,0.284,false
+6,17:31:14.641,Thin very long strafe,Track Master 100,8.102s,786,200,0.254,200,786,0.254,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,4360,1200,1200.0,4360.0,
+
+Kills:,6
+Deaths:,0
+Fight Time:,48.866001
+Avg TTK:,0
+Damage Done:,1200.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,1200.0
+Scenario:,Thin Aiming Long slow
+Hash:,1752e8053ba5d8143a4c0f33b2b03300
+Game Version:,2.0.3.2
+Challenge Start:,17:30:15.784
+
+Input Lag:,0
+Max FPS (config):,0.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,0.7
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,184.478928
+Resolution Scale,100.0

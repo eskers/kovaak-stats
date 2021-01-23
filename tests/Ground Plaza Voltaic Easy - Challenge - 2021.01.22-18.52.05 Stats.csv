@@ -1,0 +1,40 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:49:27.021,air1_mixed_short_dash,LG,37.789s,3737,1200,0.321,1200,3737,0.321,false
+2,18:50:01.520,air_close_short,LG,34.25s,3289,1200,0.365,1200,3289,0.365,false
+3,18:50:40.124,air1_far_short,LG,38.351s,3765,1200,0.319,1200,3765,0.319,false
+4,18:51:28.167,air1F_close_short,LG,47.782s,4605,1200,0.261,1200,4605,0.261,false
+5,18:52:05.236,air1F_far_short,LG,37.049s,3600,1200,0.333,1200,3600,0.333,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,18997,6001,6001.0,18997.0,
+
+Kills:,5
+Deaths:,0
+Fight Time:,195.220993
+Avg TTK:,0
+Damage Done:,6001.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,803.692017
+Scenario:,Ground Plaza Voltaic Easy
+Hash:,fa96184c063bbcdb322fb43b0bf6c82f
+Game Version:,2.0.3.2
+Challenge Start:,18:48:48.928
+
+Input Lag:,0
+Max FPS (config):,0.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,0.7
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,206.573532
+Resolution Scale,100.0

@@ -1,0 +1,58 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:26:11.026,High,B180T LG,0.485s,10,5,0.5,5,10,0.5,false
+2,19:26:13.134,Mid,B180T LG,1.401s,25,5,0.2,5,25,0.2,false
+3,19:26:14.731,Low,B180T LG,0.7s,14,5,0.357,5,14,0.357,false
+4,19:26:17.018,Mid,B180T LG,1.672s,32,5,0.156,5,32,0.156,false
+5,19:26:20.539,High,B180T LG,2.464s,44,5,0.114,5,44,0.114,false
+6,19:26:22.061,Low,B180T LG,0.915s,18,5,0.278,5,18,0.278,false
+7,19:26:26.006,Mid,B180T LG,3.501s,63,5,0.079,5,63,0.079,false
+8,19:26:28.330,Mid,B180T LG,1.562s,29,5,0.172,5,29,0.172,false
+9,19:26:31.943,High,B180T LG,3.082s,58,5,0.086,5,58,0.086,false
+10,19:26:37.367,Mid,B180T LG,4.54s,85,5,0.059,5,85,0.059,false
+11,19:26:40.241,Mid,B180T LG,2.053s,39,5,0.128,5,39,0.128,false
+12,19:26:42.434,Mid,B180T LG,1.296s,25,5,0.2,5,25,0.2,false
+13,19:26:44.366,Low,B180T LG,1.461s,28,5,0.179,5,28,0.179,false
+14,19:26:46.915,Mid,B180T LG,1.654s,28,5,0.179,5,28,0.179,false
+15,19:26:48.432,Low,B180T LG,1.081s,21,5,0.238,5,21,0.238,false
+16,19:26:49.803,Low,B180T LG,0.86s,17,5,0.294,5,17,0.294,false
+17,19:26:54.149,High,B180T LG,3.5s,60,5,0.083,5,60,0.083,false
+18,19:26:56.971,Mid,B180T LG,1.946s,37,5,0.135,5,37,0.135,false
+19,19:26:58.517,Mid,B180T LG,1.146s,17,5,0.294,5,17,0.294,false
+20,19:26:59.899,High,B180T LG,0.431s,9,5,0.556,5,9,0.556,false
+21,19:27:03.750,High,B180T LG,2.4s,43,6,0.14,6,43,0.14,false
+22,19:27:05.867,Mid,B180T LG,1.619s,31,4,0.129,4,31,0.129,false
+23,19:27:07.628,Low,B180T LG,0.592s,12,5,0.417,5,12,0.417,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+B180T LG,761,118,118.0,761.0,
+
+Kills:,23
+Deaths:,0
+Fight Time:,40.361
+Avg TTK:,0
+Damage Done:,118.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,23.6
+Scenario:,B180T Voltaic Easy
+Hash:,633bc2272b29b5ab0a9ad63fe0524c56
+Game Version:,2.0.3.1
+Challenge Start:,19:26:09.108
+
+Input Lag:,0
+Max FPS (config):,166.0
+Sens Scale:,Valorant
+Horiz Sens:,0.335
+Vert Sens:,0.335
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,191.107162
+Resolution Scale,100.0

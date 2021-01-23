@@ -1,0 +1,58 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:22:36.121,Mid,pistol,5.639s,6,1,0.167,50,750,0.067,false
+2,17:22:38.729,High,pistol,1.543s,2,1,0.5,50,250,0.2,false
+3,17:22:39.947,Low,pistol,0s,1,1,1,50,125,0.4,false
+4,17:22:42.876,Mid,pistol,1.584s,3,1,0.333,50,375,0.133,false
+5,17:22:52.099,Low,pistol,7.992s,6,1,0.167,50,750,0.067,false
+6,17:22:53.434,Mid,pistol,0s,1,1,1,50,125,0.4,false
+7,17:22:57.218,Mid,pistol,2.553s,3,1,0.333,50,375,0.133,false
+8,17:22:58.705,Low,pistol,0s,1,1,1,50,125,0.4,false
+9,17:23:00.537,Mid,pistol,1.131s,2,1,0.5,50,250,0.2,false
+10,17:23:02.831,Mid,pistol,1.279s,2,1,0.5,50,250,0.2,false
+11,17:23:04.435,High,pistol,1.053s,2,1,0.5,50,250,0.2,false
+12,17:23:08.916,High,pistol,3.718s,4,1,0.25,50,500,0.1,false
+13,17:23:11.368,High,pistol,1.5s,2,1,0.5,50,250,0.2,false
+14,17:23:12.803,High,pistol,0s,1,1,1,50,125,0.4,false
+15,17:23:16.014,Mid,pistol,2.628s,4,1,0.25,50,500,0.1,false
+16,17:23:17.189,Mid,pistol,0s,1,1,1,50,125,0.4,false
+17,17:23:18.510,Low,pistol,0s,1,1,1,50,125,0.4,false
+18,17:23:20.074,Mid,pistol,0.756s,2,1,0.5,50,250,0.2,false
+19,17:23:21.988,Mid,pistol,1.215s,2,1,0.5,50,250,0.2,false
+20,17:23:22.508,Low,pistol,0s,1,1,1,50,125,0.4,false
+21,17:23:23.371,Low,pistol,0s,1,1,1,50,125,0.4,false
+22,17:23:26.209,Mid,pistol,1.541s,3,1,0.333,50,375,0.133,false
+23,17:23:27.558,Mid,pistol,0s,1,1,1,50,125,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,54,23,1150.0,6750.0,
+
+Kills:,23
+Deaths:,0
+Fight Time:,34.132
+Avg TTK:,0
+Damage Done:,1150.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,23.0
+Scenario:,B180 Voltaic Easy
+Hash:,b68f1591dc268a022956ca3e33e67a29
+Game Version:,2.0.3.2
+Challenge Start:,17:22:29.506
+
+Input Lag:,0
+Max FPS (config):,1000.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,216.408752
+Resolution Scale,100.0

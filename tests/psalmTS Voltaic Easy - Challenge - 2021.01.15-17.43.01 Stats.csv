@@ -1,0 +1,86 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:42:03.440,target,LG,0.715s,63,20,0.317,1,3.15,0.317,false
+2,17:42:04.390,target,LG,0.485s,43,20,0.465,1,2.15,0.465,false
+3,17:42:05.275,target,LG,0.703s,55,20,0.364,1,2.75,0.364,false
+4,17:42:05.992,target,LG,0.217s,20,20,1,1,1,1,false
+5,17:42:06.972,target,LG,0.415s,37,20,0.541,1,1.85,0.541,false
+6,17:42:08.095,target,LG,0.498s,44,20,0.455,1,2.2,0.455,false
+7,17:42:09.567,target,LG,0.82s,72,20,0.278,1,3.6,0.278,false
+8,17:42:10.397,target,LG,0.335s,30,20,0.667,1,1.5,0.667,false
+9,17:42:11.210,target,LG,0.37s,33,20,0.606,1,1.65,0.606,false
+10,17:42:12.161,target,LG,0.345s,31,20,0.645,1,1.55,0.645,false
+11,17:42:12.924,target,LG,0.568s,41,20,0.488,1,2.05,0.488,false
+12,17:42:14.165,target,LG,0.599s,53,20,0.377,1,2.65,0.377,false
+13,17:42:15.340,target,LG,0.636s,56,20,0.357,1,2.8,0.357,false
+14,17:42:15.974,target,LG,0.255s,23,20,0.87,1,1.15,0.87,false
+15,17:42:17.442,target,LG,0.913s,80,20,0.25,1,4,0.25,false
+16,17:42:18.858,target,LG,0.83s,73,20,0.274,1,3.65,0.274,false
+17,17:42:20.658,target,LG,1.369s,119,20,0.168,1,5.95,0.168,false
+18,17:42:22.222,target,LG,1.005s,88,23,0.261,1.15,4.4,0.261,false
+19,17:42:23.401,target,LG,1.02s,42,20,0.476,1,2.1,0.476,false
+20,17:42:24.053,target,LG,0.242s,22,20,0.909,1,1.1,0.909,false
+21,17:42:25.040,target,LG,0.66s,58,20,0.345,1,2.9,0.345,false
+22,17:42:25.761,target,LG,0.31s,28,20,0.714,1,1.4,0.714,false
+23,17:42:26.551,target,LG,0.357s,32,20,0.625,1,1.6,0.625,false
+24,17:42:27.352,target,LG,0.356s,32,20,0.625,1,1.6,0.625,false
+25,17:42:28.147,target,LG,0.426s,38,20,0.526,1,1.9,0.526,false
+26,17:42:29.805,target,LG,0.958s,84,20,0.238,1,4.2,0.238,false
+27,17:42:30.791,target,LG,0.322s,29,17,0.586,0.85,1.45,0.586,false
+28,17:42:31.693,target,LG,0.285s,26,20,0.769,1,1.3,0.769,false
+29,17:42:33.144,target,LG,0.833s,73,20,0.274,1,3.65,0.274,false
+30,17:42:34.167,target,LG,0.574s,51,20,0.392,1,2.55,0.392,false
+31,17:42:35.580,target,LG,0.881s,77,26,0.338,1.3,3.85,0.338,false
+32,17:42:36.444,target,LG,0.309s,28,20,0.714,1,1.4,0.714,false
+33,17:42:37.632,target,LG,0.636s,56,20,0.357,1,2.8,0.357,false
+34,17:42:38.626,target,LG,0.531s,47,14,0.298,0.7,2.35,0.298,false
+35,17:42:40.318,target,LG,1.204s,105,20,0.19,1,5.25,0.19,false
+36,17:42:42.884,target,LG,1.598s,107,38,0.355,1.9,5.35,0.355,false
+37,17:42:43.930,target,LG,0.612s,54,20,0.37,1,2.7,0.37,false
+38,17:42:44.194,target,LG,0.006s,2,2,1,0.1,0.1,1,false
+39,17:42:45.088,target,LG,0.645s,37,20,0.541,1,1.85,0.541,false
+40,17:42:46.419,target,LG,0.713s,63,20,0.317,1,3.15,0.317,false
+41,17:42:47.764,target,LG,0.575s,51,20,0.392,1,2.55,0.392,false
+42,17:42:48.436,target,LG,0.239s,22,20,0.909,1,1.1,0.909,false
+43,17:42:49.686,target,LG,0.821s,72,25,0.347,1.25,3.6,0.347,false
+44,17:42:50.466,target,LG,0.588s,52,15,0.288,0.75,2.6,0.288,false
+45,17:42:52.541,target,LG,1.414s,109,20,0.183,1,5.45,0.183,false
+46,17:42:53.816,target,LG,0.742s,65,20,0.308,1,3.25,0.308,false
+47,17:42:55.144,target,LG,0.832s,73,20,0.274,1,3.65,0.274,false
+48,17:42:56.298,target,LG,0.52s,46,20,0.435,1,2.3,0.435,false
+49,17:42:57.568,target,LG,0.927s,81,20,0.247,1,4.05,0.247,false
+50,17:43:00.055,target,LG,1.637s,125,20,0.16,1,6.25,0.16,false
+51,17:43:01.316,target,LG,0.95s,83,20,0.241,1,4.15,0.241,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,2837,1020,50.999508,141.85405,
+
+Kills:,51
+Deaths:,0
+Fight Time:,33.802002
+Avg TTK:,0
+Damage Done:,50.999508
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,50.999508
+Scenario:,psalmTS Voltaic Easy
+Hash:,9c9cb20f76343728b0432f23709c7b74
+Game Version:,2.0.3.2
+Challenge Start:,17:42:01.653
+
+Input Lag:,0
+Max FPS (config):,1000.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,189.377869
+Resolution Scale,100.0

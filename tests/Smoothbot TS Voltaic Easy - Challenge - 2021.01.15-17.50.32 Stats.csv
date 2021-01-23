@@ -1,0 +1,67 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:49:34.749,SmoothBot,LG,1.03s,89,35,0.393,1.001,2.545,0.393,false
+2,17:49:36.648,SmoothBot,LG,1.088s,94,35,0.372,1.001,2.688,0.372,false
+3,17:49:38.761,SmoothBot,LG,1.182s,102,35,0.343,1.001,2.917,0.343,false
+4,17:49:40.682,SmoothBot,LG,1.171s,101,35,0.347,1.001,2.889,0.347,false
+5,17:49:42.705,SmoothBot,LG,0.958s,83,35,0.422,1.001,2.374,0.422,false
+6,17:49:43.950,SmoothBot,LG,0.764s,66,35,0.53,1.001,1.888,0.53,false
+7,17:49:46.374,SmoothBot,LG,1.265s,109,35,0.321,1.001,3.117,0.321,false
+8,17:49:47.670,SmoothBot,LG,0.798s,69,35,0.507,1.001,1.973,0.507,false
+9,17:49:49.192,SmoothBot,LG,0.958s,83,35,0.422,1.001,2.374,0.422,false
+10,17:49:50.717,SmoothBot,LG,0.811s,70,35,0.5,1.001,2.002,0.5,false
+11,17:49:52.456,SmoothBot,LG,1.246s,107,35,0.327,1.001,3.06,0.327,false
+12,17:49:54.195,SmoothBot,LG,1.139s,98,35,0.357,1.001,2.803,0.357,false
+13,17:49:56.443,SmoothBot,LG,1.151s,99,35,0.354,1.001,2.831,0.354,false
+14,17:49:58.557,SmoothBot,LG,0.901s,78,35,0.449,1.001,2.231,0.449,false
+15,17:50:00.188,SmoothBot,LG,0.782s,68,35,0.515,1.001,1.945,0.515,false
+16,17:50:02.478,SmoothBot,LG,1.482s,127,35,0.276,1.001,3.632,0.276,false
+17,17:50:03.952,SmoothBot,LG,0.587s,51,35,0.686,1.001,1.459,0.686,false
+18,17:50:05.564,SmoothBot,LG,1.01s,87,35,0.402,1.001,2.488,0.402,false
+19,17:50:06.886,SmoothBot,LG,0.795s,69,35,0.507,1.001,1.973,0.507,false
+20,17:50:08.105,SmoothBot,LG,1.008s,87,35,0.402,1.001,2.488,0.402,false
+21,17:50:11.292,SmoothBot,LG,2.056s,176,45,0.256,1.287,5.034,0.256,false
+22,17:50:12.479,SmoothBot,LG,0.95s,71,25,0.352,0.715,2.031,0.352,false
+23,17:50:13.944,SmoothBot,LG,0.81s,70,35,0.5,1.001,2.002,0.5,false
+24,17:50:16.016,SmoothBot,LG,1.453s,125,38,0.304,1.087,3.575,0.304,false
+25,17:50:18.538,SmoothBot,LG,1.62s,139,32,0.23,0.915,3.975,0.23,false
+26,17:50:21.594,SmoothBot,LG,2.303s,174,67,0.385,1.916,4.976,0.385,false
+27,17:50:22.219,SmoothBot,LG,0.125s,12,3,0.25,0.086,0.343,0.25,false
+28,17:50:23.622,SmoothBot,LG,0.914s,79,35,0.443,1.001,2.259,0.443,false
+29,17:50:24.981,SmoothBot,LG,1.067s,92,35,0.38,1.001,2.631,0.38,false
+30,17:50:27.115,SmoothBot,LG,1.867s,135,37,0.274,1.058,3.861,0.274,false
+31,17:50:28.441,SmoothBot,LG,0.786s,68,33,0.485,0.944,1.945,0.485,false
+32,17:50:30.955,SmoothBot,LG,1.452s,125,35,0.28,1.001,3.575,0.28,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,3088,1150,32.890305,88.317993,
+
+Kills:,32
+Deaths:,0
+Fight Time:,35.528999
+Avg TTK:,0
+Damage Done:,32.890305
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,32.890305
+Scenario:,Smoothbot TS Voltaic Easy
+Hash:,80f4bae4c0dfb9be512ee6c483bea372
+Game Version:,2.0.3.2
+Challenge Start:,17:49:32.567
+
+Input Lag:,0
+Max FPS (config):,1000.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,196.532089
+Resolution Scale,100.0

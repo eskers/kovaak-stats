@@ -1,0 +1,39 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:49:34.916,air1_far_long,LG,11.138s,1115,553,0.496,721.112,1453.949,0.496,false
+2,17:49:50.429,air1_far_long,LG,15.25s,1485,553,0.372,721.112,1936.412,0.372,false
+3,17:50:05.881,air1_far_long,LG,15.198s,1484,553,0.373,721.112,1935.108,0.373,false
+4,17:50:20.826,air1_far_long,LG,14.684s,1401,553,0.395,721.112,1826.88,0.395,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,5668,2281,2974.360596,7391.473145,
+
+Kills:,4
+Deaths:,0
+Fight Time:,56.27
+Avg TTK:,0
+Damage Done:,2974.360596
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,2974.360596
+Scenario:,gp far long strafes
+Hash:,34e124fe5a4afca93dcde66890609ad5
+Game Version:,2.0.3.2
+Challenge Start:,17:49:23.348
+
+Input Lag:,0
+Max FPS (config):,0.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,0.7
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,221.397659
+Resolution Scale,100.0

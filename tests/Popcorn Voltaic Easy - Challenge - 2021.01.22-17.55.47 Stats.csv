@@ -1,0 +1,42 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:54:56.837,Pigeon5,pistol,6.945s,5,1,0.2,100,1000,0.1,false
+2,17:55:04.198,Pigeon,pistol,5.119s,5,1,0.2,100,1000,0.1,false
+3,17:55:07.264,Pigeon3,pistol,1.455s,2,1,0.5,100,400,0.25,false
+4,17:55:16.697,Pigeon4,pistol,8.232s,5,1,0.2,100,1000,0.1,false
+5,17:55:21.322,Pigeon2,pistol,3.743s,3,1,0.333,100,600,0.167,false
+6,17:55:31.616,Pigeon4,pistol,9.282s,7,1,0.143,100,1400,0.071,false
+7,17:55:32.671,Pigeon5,pistol,0s,1,1,1,100,200,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,38,7,700.0,7600.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,34.776001
+Avg TTK:,0
+Damage Done:,700.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,70.0
+Scenario:,Popcorn Voltaic Easy
+Hash:,f5b2976cfb4c0adb84fca4b22c48de15
+Game Version:,2.0.3.2
+Challenge Start:,17:54:47.843
+
+Input Lag:,0
+Max FPS (config):,0.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,0.7
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,221.522064
+Resolution Scale,100.0

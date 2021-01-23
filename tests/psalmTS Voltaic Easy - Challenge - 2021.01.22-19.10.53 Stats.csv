@@ -1,0 +1,83 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:09:54.019,target,LG,1.174s,65,20,0.308,1,3.25,0.308,false
+2,19:09:54.924,target,LG,0.309s,28,20,0.714,1,1.4,0.714,false
+3,19:09:56.352,target,LG,0.957s,84,20,0.238,1,4.2,0.238,false
+4,19:09:57.306,target,LG,0.438s,39,20,0.513,1,1.95,0.513,false
+5,19:09:59.010,target,LG,1.076s,94,30,0.319,1.5,4.7,0.319,false
+6,19:10:03.581,target,LG,1.571s,123,20,0.163,1,6.15,0.163,false
+7,19:10:05.223,target,LG,0.901s,79,20,0.253,1,3.95,0.253,false
+8,19:10:06.631,target,LG,1.004s,88,20,0.227,1,4.4,0.227,false
+9,19:10:07.561,target,LG,0.379s,34,20,0.588,1,1.7,0.588,false
+10,19:10:08.742,target,LG,0.799s,70,20,0.286,1,3.5,0.286,false
+11,19:10:09.648,target,LG,0.365s,33,10,0.303,0.5,1.65,0.303,false
+12,19:10:10.532,target,LG,0.494s,44,20,0.455,1,2.2,0.455,false
+13,19:10:11.388,target,LG,0.401s,36,20,0.556,1,1.8,0.556,false
+14,19:10:12.599,target,LG,0.636s,56,20,0.357,1,2.8,0.357,false
+15,19:10:13.112,target,LG,0.22s,20,20,1,1,1,1,false
+16,19:10:14.055,target,LG,0.611s,54,20,0.37,1,2.7,0.37,false
+17,19:10:15.285,target,LG,0.567s,50,20,0.4,1,2.5,0.4,false
+18,19:10:17.861,target,LG,1.992s,163,35,0.215,1.75,8.15,0.215,false
+19,19:10:18.852,target,LG,0.495s,44,5,0.114,0.25,2.2,0.114,false
+20,19:10:20.003,target,LG,0.904s,70,20,0.286,1,3.5,0.286,false
+21,19:10:20.954,target,LG,0.707s,62,20,0.323,1,3.1,0.323,false
+22,19:10:22.056,target,LG,0.693s,61,20,0.328,1,3.05,0.328,false
+23,19:10:23.019,target,LG,0.509s,45,20,0.444,1,2.25,0.444,false
+24,19:10:24.424,target,LG,0.941s,63,20,0.317,1,3.15,0.317,false
+25,19:10:25.138,target,LG,0.219s,20,20,1,1,1,1,false
+26,19:10:26.008,target,LG,0.333s,30,20,0.667,1,1.5,0.667,false
+27,19:10:27.810,target,LG,1.6s,123,20,0.163,1,6.15,0.163,false
+28,19:10:29.048,target,LG,0.577s,51,20,0.392,1,2.55,0.392,false
+29,19:10:30.265,target,LG,1.035s,75,20,0.267,1,3.75,0.267,false
+30,19:10:31.266,target,LG,0.531s,47,25,0.532,1.25,2.35,0.532,false
+31,19:10:31.987,target,LG,0.301s,27,15,0.556,0.75,1.35,0.556,false
+32,19:10:32.918,target,LG,0.68s,49,20,0.408,1,2.45,0.408,false
+33,19:10:34.605,target,LG,1.452s,95,20,0.211,1,4.75,0.211,false
+34,19:10:36.041,target,LG,0.89s,78,20,0.256,1,3.9,0.256,false
+35,19:10:36.767,target,LG,0.519s,46,20,0.435,1,2.3,0.435,false
+36,19:10:38.283,target,LG,0.994s,87,20,0.23,1,4.35,0.23,false
+37,19:10:39.872,target,LG,1.238s,108,20,0.185,1,5.4,0.185,false
+38,19:10:40.632,target,LG,0.39s,35,20,0.571,1,1.75,0.571,false
+39,19:10:41.642,target,LG,0.61s,54,20,0.37,1,2.7,0.37,false
+40,19:10:42.877,target,LG,0.775s,68,20,0.294,1,3.4,0.294,false
+41,19:10:44.850,target,LG,1.458s,127,20,0.157,1,6.35,0.157,false
+42,19:10:45.710,target,LG,0.367s,33,20,0.606,1,1.65,0.606,false
+43,19:10:47.283,target,LG,0.879s,77,20,0.26,1,3.85,0.26,false
+44,19:10:48.247,target,LG,0.417s,37,20,0.541,1,1.85,0.541,false
+45,19:10:48.954,target,LG,0.455s,40,20,0.5,1,2,0.5,false
+46,19:10:49.643,target,LG,0.535s,47,20,0.426,1,2.35,0.426,false
+47,19:10:50.668,target,LG,0.658s,58,20,0.345,1,2.9,0.345,false
+48,19:10:52.150,target,LG,0.971s,85,20,0.235,1,4.25,0.235,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,3074,972,48.599545,153.704773,
+
+Kills:,48
+Deaths:,0
+Fight Time:,36.027
+Avg TTK:,0
+Damage Done:,48.599545
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,48.599545
+Scenario:,psalmTS Voltaic Easy
+Hash:,9c9cb20f76343728b0432f23709c7b74
+Game Version:,2.0.3.2
+Challenge Start:,19:10:00.721
+
+Input Lag:,0
+Max FPS (config):,0.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,0.7
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,197.285004
+Resolution Scale,100.0

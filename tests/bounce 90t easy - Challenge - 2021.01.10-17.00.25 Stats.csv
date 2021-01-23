@@ -1,0 +1,96 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,16:59:16.208,Pigeon,LG,0.541s,11,5,0.455,30,66,0.455,false
+2,16:59:17.342,Pigeon,LG,0.755s,8,5,0.625,30,48,0.625,false
+3,16:59:17.995,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+4,16:59:19.363,Pigeon,LG,0.714s,9,5,0.556,30,54,0.556,false
+5,16:59:20.612,Pigeon,LG,0.27s,6,5,0.833,30,36,0.833,false
+6,16:59:23.391,Pigeon,LG,1.678s,18,9,0.5,54,108,0.5,false
+7,16:59:23.795,Pigeon,LG,0s,1,1,1,6,6,1,false
+8,16:59:24.815,Pigeon,LG,0.322s,7,5,0.714,30,42,0.714,false
+9,16:59:25.913,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+10,16:59:26.988,Pigeon,LG,0.642s,9,5,0.556,30,54,0.556,false
+11,16:59:28.176,Pigeon,LG,0.318s,7,5,0.714,30,42,0.714,false
+12,16:59:29.359,Pigeon,LG,0.375s,8,5,0.625,30,48,0.625,false
+13,16:59:31.037,Pigeon,LG,0.323s,7,5,0.714,30,42,0.714,false
+14,16:59:32.267,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+15,16:59:33.543,Pigeon,LG,0.842s,8,5,0.625,30,48,0.625,false
+16,16:59:35.222,Pigeon,LG,0.377s,8,5,0.625,30,48,0.625,false
+17,16:59:35.864,Pigeon,LG,0.266s,6,5,0.833,30,36,0.833,false
+18,16:59:36.586,Pigeon,LG,0.269s,6,5,0.833,30,36,0.833,false
+19,16:59:37.850,Pigeon,LG,0.591s,12,5,0.417,30,72,0.417,false
+20,16:59:39.214,Pigeon,LG,0.913s,8,5,0.625,30,48,0.625,false
+21,16:59:40.805,Pigeon,LG,0.432s,9,7,0.778,42,54,0.778,false
+22,16:59:41.774,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+23,16:59:43.651,Pigeon,LG,1.383s,16,3,0.188,18,96,0.188,false
+24,16:59:44.755,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+25,16:59:45.646,Pigeon,LG,0.431s,9,5,0.556,30,54,0.556,false
+26,16:59:46.749,Pigeon,LG,0.756s,15,5,0.333,30,90,0.333,false
+27,16:59:48.019,Pigeon,LG,0.324s,7,5,0.714,30,42,0.714,false
+28,16:59:48.459,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+29,16:59:49.062,Pigeon,LG,0.37s,5,5,1,30,30,1,false
+30,16:59:50.348,Pigeon,LG,0.432s,9,5,0.556,30,54,0.556,false
+31,16:59:51.962,Pigeon,LG,0.812s,10,5,0.5,30,60,0.5,false
+32,16:59:52.911,Pigeon,LG,0.319s,7,5,0.714,30,42,0.714,false
+33,16:59:53.634,Pigeon,LG,0.267s,6,5,0.833,30,36,0.833,false
+34,16:59:55.160,Pigeon,LG,0.855s,8,5,0.625,30,48,0.625,false
+35,16:59:56.082,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+36,16:59:56.893,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+37,16:59:59.626,Pigeon,LG,1.848s,12,8,0.667,48,72,0.667,false
+38,17:00:00.148,Pigeon,LG,0.051s,2,2,1,12,12,1,false
+39,17:00:02.207,Pigeon,LG,1.448s,18,9,0.5,54,108,0.5,false
+40,17:00:02.711,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+41,17:00:03.312,Pigeon,LG,0.001s,1,1,1,6,6,1,false
+42,17:00:04.485,Pigeon,LG,0.536s,11,5,0.455,30,66,0.455,false
+43,17:00:06.149,Pigeon,LG,0.645s,13,5,0.385,30,78,0.385,false
+44,17:00:07.097,Pigeon,LG,0.73s,6,5,0.833,30,36,0.833,false
+45,17:00:08.874,Pigeon,LG,1.343s,14,9,0.643,54,84,0.643,false
+46,17:00:09.705,Pigeon,LG,0s,1,1,1,6,6,1,false
+47,17:00:10.608,Pigeon,LG,0.268s,6,5,0.833,30,36,0.833,false
+48,17:00:12.574,Pigeon,LG,0.59s,12,5,0.417,30,72,0.417,false
+49,17:00:13.877,Pigeon,LG,0.895s,14,5,0.357,30,84,0.357,false
+50,17:00:14.598,Pigeon,LG,0.267s,6,5,0.833,30,36,0.833,false
+51,17:00:15.343,Pigeon,LG,0.267s,6,5,0.833,30,36,0.833,false
+52,17:00:15.952,Pigeon,LG,0.215s,5,5,1,30,30,1,false
+53,17:00:17.551,Pigeon,LG,1.044s,17,5,0.294,30,102,0.294,false
+54,17:00:18.432,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+55,17:00:19.146,Pigeon,LG,0.325s,7,5,0.714,30,42,0.714,false
+56,17:00:19.906,Pigeon,LG,0.323s,7,5,0.714,30,42,0.714,false
+57,17:00:20.967,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+58,17:00:22.029,Pigeon,LG,0.377s,8,5,0.625,30,48,0.625,false
+59,17:00:22.814,Pigeon,LG,0.321s,7,5,0.714,30,42,0.714,false
+60,17:00:24.273,Pigeon,LG,0.649s,13,5,0.385,30,78,0.385,false
+61,17:00:25.048,Pigeon,LG,0.211s,5,5,1,30,30,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,487,305,1830.0,2922.0,
+
+Kills:,61
+Deaths:,0
+Fight Time:,30.284
+Avg TTK:,0
+Damage Done:,1830.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,61.0
+Scenario:,bounce 90t easy
+Hash:,2b57378fbc775d6522303ca6480de597
+Game Version:,2.0.3.1
+Challenge Start:,16:59:14.744
+
+Input Lag:,0
+Max FPS (config):,1000.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,212.37915
+Resolution Scale,100.0

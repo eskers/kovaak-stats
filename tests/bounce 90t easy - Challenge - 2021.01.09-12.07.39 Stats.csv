@@ -1,0 +1,93 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,12:06:30.127,Pigeon,LG,0.808s,16,5,0.312,30,96,0.312,false
+2,12:06:31.384,Pigeon,LG,0.373s,8,5,0.625,30,48,0.625,false
+3,12:06:32.775,Pigeon,LG,0.7s,14,5,0.357,30,84,0.357,false
+4,12:06:33.849,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+5,12:06:35.000,Pigeon,LG,0.485s,10,5,0.5,30,60,0.5,false
+6,12:06:35.683,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+7,12:06:36.902,Pigeon,LG,0.268s,6,5,0.833,30,36,0.833,false
+8,12:06:38.239,Pigeon,LG,0.89s,13,5,0.385,30,78,0.385,false
+9,12:06:39.063,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+10,12:06:40.388,Pigeon,LG,0.93s,13,8,0.615,48,78,0.615,false
+11,12:06:40.572,Pigeon,LG,0.179s,2,2,1,12,12,1,false
+12,12:06:42.070,Pigeon,LG,1.263s,18,5,0.278,30,108,0.278,false
+13,12:06:43.705,Pigeon,LG,1.136s,15,5,0.333,30,90,0.333,false
+14,12:06:44.885,Pigeon,LG,0.539s,11,5,0.455,30,66,0.455,false
+15,12:06:46.365,Pigeon,LG,1.079s,21,5,0.238,30,126,0.238,false
+16,12:06:47.168,Pigeon,LG,0.538s,11,5,0.455,30,66,0.455,false
+17,12:06:48.171,Pigeon,LG,0.432s,9,5,0.556,30,54,0.556,false
+18,12:06:49.463,Pigeon,LG,0.486s,10,5,0.5,30,60,0.5,false
+19,12:06:50.603,Pigeon,LG,0.927s,18,5,0.278,30,108,0.278,false
+20,12:06:51.596,Pigeon,LG,0.483s,10,8,0.8,48,60,0.8,false
+21,12:06:52.347,Pigeon,LG,0.485s,10,6,0.6,36,60,0.6,false
+22,12:06:53.130,Pigeon,LG,0.265s,6,4,0.667,24,36,0.667,false
+23,12:06:53.809,Pigeon,LG,0.052s,2,2,1,12,12,1,false
+24,12:06:55.352,Pigeon,LG,0.919s,18,9,0.5,54,108,0.5,false
+25,12:06:56.164,Pigeon,LG,0.156s,4,1,0.25,6,24,0.25,false
+26,12:06:57.077,Pigeon,LG,0.322s,7,5,0.714,30,42,0.714,false
+27,12:06:58.468,Pigeon,LG,0.427s,9,5,0.556,30,54,0.556,false
+28,12:07:00.161,Pigeon,LG,0.323s,7,5,0.714,30,42,0.714,false
+29,12:07:01.674,Pigeon,LG,1.132s,22,7,0.318,42,132,0.318,false
+30,12:07:02.858,Pigeon,LG,0.372s,8,5,0.625,30,48,0.625,false
+31,12:07:05.421,Pigeon,LG,2.065s,36,6,0.167,36,216,0.167,false
+32,12:07:06.323,Pigeon,LG,0.323s,7,3,0.429,18,42,0.429,false
+33,12:07:07.015,Pigeon,LG,0.211s,5,5,1,30,30,1,false
+34,12:07:07.782,Pigeon,LG,0.575s,6,5,0.833,30,36,0.833,false
+35,12:07:08.619,Pigeon,LG,0.211s,5,4,0.8,24,30,0.8,false
+36,12:07:10.574,Pigeon,LG,1.187s,23,5,0.217,30,138,0.217,false
+37,12:07:12.520,Pigeon,LG,1.422s,19,5,0.263,30,114,0.263,false
+38,12:07:13.923,Pigeon,LG,0.318s,7,5,0.714,30,42,0.714,false
+39,12:07:14.962,Pigeon,LG,0.428s,9,5,0.556,30,54,0.556,false
+40,12:07:16.254,Pigeon,LG,0.432s,9,5,0.556,30,54,0.556,false
+41,12:07:17.719,Pigeon,LG,0.975s,19,5,0.263,30,114,0.263,false
+42,12:07:19.038,Pigeon,LG,0.866s,17,5,0.294,30,102,0.294,false
+43,12:07:20.411,Pigeon,LG,1.18s,13,5,0.385,30,78,0.385,false
+44,12:07:21.873,Pigeon,LG,0.32s,7,5,0.714,30,42,0.714,false
+45,12:07:23.059,Pigeon,LG,0.808s,16,5,0.312,30,96,0.312,false
+46,12:07:23.747,Pigeon,LG,0.21s,5,5,1,30,30,1,false
+47,12:07:25.359,Pigeon,LG,0.866s,17,5,0.294,30,102,0.294,false
+48,12:07:26.185,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+49,12:07:27.502,Pigeon,LG,0.7s,14,5,0.357,30,84,0.357,false
+50,12:07:28.956,Pigeon,LG,0.809s,16,5,0.312,30,96,0.312,false
+51,12:07:29.938,Pigeon,LG,0.482s,10,5,0.5,30,60,0.5,false
+52,12:07:30.847,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+53,12:07:31.626,Pigeon,LG,0.552s,5,5,1,30,30,1,false
+54,12:07:32.425,Pigeon,LG,0.43s,9,5,0.556,30,54,0.556,false
+55,12:07:34.350,Pigeon,LG,1.065s,16,8,0.5,48,96,0.5,false
+56,12:07:35.923,Pigeon,LG,0.864s,17,5,0.294,30,102,0.294,false
+57,12:07:37.194,Pigeon,LG,0.541s,11,5,0.455,30,66,0.455,false
+58,12:07:38.326,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,654,296,1776.0,3924.0,
+
+Kills:,58
+Deaths:,0
+Fight Time:,35.097
+Avg TTK:,0
+Damage Done:,1776.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,58.0
+Scenario:,bounce 90t easy
+Hash:,2b57378fbc775d6522303ca6480de597
+Game Version:,2.0.3.1
+Challenge Start:,12:06:28.795
+
+Input Lag:,0
+Max FPS (config):,1000.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,210.308655
+Resolution Scale,100.0

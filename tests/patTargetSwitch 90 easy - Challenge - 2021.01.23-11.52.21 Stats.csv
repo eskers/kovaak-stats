@@ -1,0 +1,112 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,11:51:22.023,Quaker Bot Long Strafes,MG,0.204s,40,40,1,80,80,1,false
+2,11:51:22.737,Quaker Bot Long Strafes,MG,0.348s,60,40,0.667,80,120,0.667,false
+3,11:51:24.173,Quaker Bot Long Strafes,MG,1.162s,130,70,0.538,140,260,0.538,false
+4,11:51:24.512,Quaker Bot Long Strafes,MG,0s,10,10,1,20,20,1,false
+5,11:51:25.304,Quaker Bot Long Strafes,MG,0.345s,60,40,0.667,80,120,0.667,false
+6,11:51:26.395,Quaker Bot Long Strafes,MG,0.692s,100,40,0.4,80,200,0.4,false
+7,11:51:27.192,Quaker Bot Long Strafes,MG,0.415s,70,40,0.571,80,140,0.571,false
+8,11:51:28.074,Quaker Bot Long Strafes,MG,0.555s,90,40,0.444,80,180,0.444,false
+9,11:51:28.806,Quaker Bot Long Strafes,MG,0.419s,70,40,0.571,80,140,0.571,false
+10,11:51:29.421,Quaker Bot Long Strafes,MG,0.415s,70,40,0.571,80,140,0.571,false
+11,11:51:30.064,Quaker Bot Long Strafes,MG,0.347s,60,40,0.667,80,120,0.667,false
+12,11:51:30.898,Quaker Bot Long Strafes,MG,0.346s,60,40,0.667,80,120,0.667,false
+13,11:51:31.303,Quaker Bot Long Strafes,MG,0.212s,40,40,1,80,80,1,false
+14,11:51:32.062,Quaker Bot Long Strafes,MG,0.28s,50,40,0.8,80,100,0.8,false
+15,11:51:32.436,Quaker Bot Long Strafes,MG,0.28s,50,40,0.8,80,100,0.8,false
+16,11:51:33.321,Quaker Bot Long Strafes,MG,0.275s,50,40,0.8,80,100,0.8,false
+17,11:51:34.013,Quaker Bot Long Strafes,MG,0.494s,80,40,0.5,80,160,0.5,false
+18,11:51:34.820,Quaker Bot Long Strafes,MG,0.416s,70,70,1,80,140,0.571,false
+19,11:51:35.552,Quaker Bot Long Strafes,MG,0.414s,70,40,0.571,80,140,0.571,false
+20,11:51:36.238,Quaker Bot Long Strafes,MG,0.417s,70,40,0.571,80,140,0.571,false
+21,11:51:37.733,Quaker Bot Long Strafes,MG,1.081s,130,40,0.308,80,260,0.308,false
+22,11:51:38.336,Quaker Bot Long Strafes,MG,0.206s,40,40,1,80,80,1,false
+23,11:51:39.176,Quaker Bot Long Strafes,MG,0.419s,70,40,0.571,80,140,0.571,false
+24,11:51:39.852,Quaker Bot Long Strafes,MG,0.279s,50,40,0.8,80,100,0.8,false
+25,11:51:40.672,Quaker Bot Long Strafes,MG,0.415s,70,40,0.571,80,140,0.571,false
+26,11:51:41.497,Quaker Bot Long Strafes,MG,0.488s,80,40,0.5,80,160,0.5,false
+27,11:51:42.199,Quaker Bot Long Strafes,MG,0.209s,40,40,1,80,80,1,false
+28,11:51:42.838,Quaker Bot Long Strafes,MG,0.276s,50,50,1,70,100,0.7,false
+29,11:51:43.570,Quaker Bot Long Strafes,MG,0.275s,50,40,0.8,80,100,0.8,false
+30,11:51:44.722,Quaker Bot Long Strafes,MG,0.419s,70,40,0.571,70,140,0.5,false
+31,11:51:45.447,Quaker Bot Long Strafes,MG,0.418s,70,40,0.571,80,140,0.571,false
+32,11:51:46.198,Quaker Bot Long Strafes,MG,0.553s,90,40,0.444,80,180,0.444,false
+33,11:51:46.903,Quaker Bot Long Strafes,MG,0.42s,70,40,0.571,80,140,0.571,false
+34,11:51:47.762,Quaker Bot Long Strafes,MG,0.558s,90,50,0.556,70,180,0.389,false
+35,11:51:48.357,Quaker Bot Long Strafes,MG,0.348s,60,40,0.667,80,120,0.667,false
+36,11:51:48.951,Quaker Bot Long Strafes,MG,0.209s,40,40,1,70,80,0.875,false
+37,11:51:49.472,Quaker Bot Long Strafes,MG,0.21s,40,40,1,80,80,1,false
+38,11:51:50.263,Quaker Bot Long Strafes,MG,0.345s,60,40,0.667,80,120,0.667,false
+39,11:51:51.347,Quaker Bot Long Strafes,MG,0.696s,110,40,0.364,80,220,0.364,false
+40,11:51:51.986,Quaker Bot Long Strafes,MG,0.276s,50,40,0.8,80,100,0.8,false
+41,11:51:53.274,Quaker Bot Long Strafes,MG,0.985s,130,50,0.385,80,260,0.308,false
+42,11:51:54.318,Quaker Bot Long Strafes,MG,0.529s,80,40,0.5,80,160,0.5,false
+43,11:51:55.019,Quaker Bot Long Strafes,MG,0.344s,60,40,0.667,80,120,0.667,false
+44,11:51:56.182,Quaker Bot Long Strafes,MG,0.557s,90,40,0.444,80,180,0.444,false
+45,11:51:56.876,Quaker Bot Long Strafes,MG,0.207s,40,40,1,80,80,1,false
+46,11:51:57.774,Quaker Bot Long Strafes,MG,0.345s,60,40,0.667,80,120,0.667,false
+47,11:51:58.725,Quaker Bot Long Strafes,MG,0.56s,90,40,0.444,80,180,0.444,false
+48,11:52:00.781,Quaker Bot Long Strafes,MG,1.59s,220,70,0.318,130,440,0.295,false
+49,11:52:01.366,Quaker Bot Long Strafes,MG,0.209s,40,10,0.25,20,80,0.25,false
+50,11:52:02.086,Quaker Bot Long Strafes,MG,0.278s,50,40,0.8,80,100,0.8,false
+51,11:52:02.866,Quaker Bot Long Strafes,MG,0.277s,50,40,0.8,80,100,0.8,false
+52,11:52:03.902,Quaker Bot Long Strafes,MG,0.559s,90,40,0.444,80,180,0.444,false
+53,11:52:04.944,Quaker Bot Long Strafes,MG,0.559s,90,40,0.444,80,180,0.444,false
+54,11:52:05.481,Quaker Bot Long Strafes,MG,0.389s,50,40,0.8,80,100,0.8,false
+55,11:52:06.128,Quaker Bot Long Strafes,MG,0.278s,50,50,1,70,100,0.7,false
+56,11:52:06.698,Quaker Bot Long Strafes,MG,0.208s,40,40,1,70,80,0.875,false
+57,11:52:07.399,Quaker Bot Long Strafes,MG,0.208s,40,40,1,80,80,1,false
+58,11:52:08.000,Quaker Bot Long Strafes,MG,0.208s,40,40,1,80,80,1,false
+59,11:52:08.662,Quaker Bot Long Strafes,MG,0.208s,40,40,1,70,80,0.875,false
+60,11:52:09.379,Quaker Bot Long Strafes,MG,0.344s,60,40,0.667,80,120,0.667,false
+61,11:52:10.197,Quaker Bot Long Strafes,MG,0.207s,40,40,1,80,80,1,false
+62,11:52:10.733,Quaker Bot Long Strafes,MG,0.204s,40,40,1,80,80,1,false
+63,11:52:11.404,Quaker Bot Long Strafes,MG,0.276s,50,40,0.8,70,100,0.7,false
+64,11:52:12.135,Quaker Bot Long Strafes,MG,0.346s,60,40,0.667,80,120,0.667,false
+65,11:52:12.767,Quaker Bot Long Strafes,MG,0.345s,60,40,0.667,80,120,0.667,false
+66,11:52:13.581,Quaker Bot Long Strafes,MG,0.485s,80,40,0.5,80,160,0.5,false
+67,11:52:14.092,Quaker Bot Long Strafes,MG,0.274s,50,40,0.8,80,100,0.8,false
+68,11:52:14.605,Quaker Bot Long Strafes,MG,0.207s,40,40,1,80,80,1,false
+69,11:52:15.544,Quaker Bot Long Strafes,MG,0.627s,100,40,0.4,80,200,0.4,false
+70,11:52:16.145,Quaker Bot Long Strafes,MG,0.348s,60,40,0.667,80,120,0.667,false
+71,11:52:16.802,Quaker Bot Long Strafes,MG,0.276s,50,40,0.8,80,100,0.8,false
+72,11:52:17.479,Quaker Bot Long Strafes,MG,0.278s,50,40,0.8,70,100,0.7,false
+73,11:52:18.095,Quaker Bot Long Strafes,MG,0.279s,50,50,1,70,100,0.7,false
+74,11:52:18.597,Quaker Bot Long Strafes,MG,0.205s,40,40,1,80,80,1,false
+75,11:52:19.227,Quaker Bot Long Strafes,MG,0.278s,50,50,1,80,100,0.8,false
+76,11:52:20.250,Quaker Bot Long Strafes,MG,0.625s,100,40,0.4,80,200,0.4,false
+77,11:52:21.031,Quaker Bot Long Strafes,MG,0.487s,80,40,0.5,80,160,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+MG,5060,3180,6070.0,10120.0,
+
+Kills:,77
+Deaths:,0
+Fight Time:,30.725
+Avg TTK:,0
+Damage Done:,6070.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,12.985413
+Score:,6070.0
+Scenario:,patTargetSwitch 90 easy
+Hash:,c32a5c4ff1a4521209dc5ef5658c735d
+Game Version:,2.0.3.2
+Challenge Start:,11:51:21.287
+
+Input Lag:,0
+Max FPS (config):,0.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,0.7
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,182.419098
+Resolution Scale,100.0

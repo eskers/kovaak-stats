@@ -1,0 +1,92 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,16:51:41.495,Pigeon,LG,0.27s,6,5,0.833,30,36,0.833,false
+2,16:51:42.158,Pigeon,LG,0.373s,8,5,0.625,30,48,0.625,false
+3,16:51:44.357,Pigeon,LG,1.171s,14,5,0.357,30,84,0.357,false
+4,16:51:46.406,Pigeon,LG,1.134s,10,5,0.5,30,60,0.5,false
+5,16:51:47.098,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+6,16:51:50.250,Pigeon,LG,1.509s,22,9,0.409,54,132,0.409,false
+7,16:51:51.370,Pigeon,LG,0.773s,11,5,0.455,30,66,0.455,false
+8,16:51:51.830,Pigeon,LG,0s,1,1,1,6,6,1,false
+9,16:51:53.181,Pigeon,LG,0.374s,8,7,0.875,42,48,0.875,false
+10,16:51:54.186,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+11,16:51:54.749,Pigeon,LG,0.104s,3,3,1,18,18,1,false
+12,16:51:55.930,Pigeon,LG,0.32s,7,5,0.714,30,42,0.714,false
+13,16:51:56.952,Pigeon,LG,0.211s,5,5,1,30,30,1,false
+14,16:51:57.716,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+15,16:51:58.694,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+16,16:51:59.377,Pigeon,LG,0.269s,6,5,0.833,30,36,0.833,false
+17,16:52:00.847,Pigeon,LG,0.43s,9,7,0.778,42,54,0.778,false
+18,16:52:01.734,Pigeon,LG,0.657s,6,5,0.833,30,36,0.833,false
+19,16:52:02.470,Pigeon,LG,0.211s,5,5,1,30,30,1,false
+20,16:52:03.310,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+21,16:52:03.979,Pigeon,LG,0.103s,3,3,1,18,18,1,false
+22,16:52:05.125,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+23,16:52:06.602,Pigeon,LG,0.484s,10,8,0.8,48,60,0.8,false
+24,16:52:08.247,Pigeon,LG,1.479s,9,4,0.444,24,54,0.444,false
+25,16:52:09.071,Pigeon,LG,0.159s,4,4,1,24,24,1,false
+26,16:52:09.993,Pigeon,LG,0.323s,7,5,0.714,30,42,0.714,false
+27,16:52:11.463,Pigeon,LG,0.538s,11,5,0.455,30,66,0.455,false
+28,16:52:12.384,Pigeon,LG,0.211s,5,5,1,30,30,1,false
+29,16:52:13.239,Pigeon,LG,0.32s,7,5,0.714,30,42,0.714,false
+30,16:52:14.271,Pigeon,LG,0.323s,7,4,0.571,24,42,0.571,false
+31,16:52:15.486,Pigeon,LG,0.746s,13,5,0.385,30,78,0.385,false
+32,16:52:16.887,Pigeon,LG,0.322s,7,5,0.714,30,42,0.714,false
+33,16:52:17.898,Pigeon,LG,0.268s,6,5,0.833,30,36,0.833,false
+34,16:52:18.592,Pigeon,LG,0.211s,5,5,1,30,30,1,false
+35,16:52:21.754,Pigeon,LG,2.238s,26,9,0.346,54,156,0.346,false
+36,16:52:22.342,Pigeon,LG,0.048s,2,1,0.5,6,12,0.5,false
+37,16:52:25.643,Pigeon,LG,2.27s,21,9,0.429,54,126,0.429,false
+38,16:52:26.278,Pigeon,LG,0.107s,3,1,0.333,6,18,0.333,false
+39,16:52:27.519,Pigeon,LG,0.32s,7,5,0.714,30,42,0.714,false
+40,16:52:28.591,Pigeon,LG,0.592s,12,5,0.417,30,72,0.417,false
+41,16:52:29.862,Pigeon,LG,0.321s,7,5,0.714,30,42,0.714,false
+42,16:52:30.588,Pigeon,LG,0.376s,8,5,0.625,30,48,0.625,false
+43,16:52:31.947,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+44,16:52:32.762,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+45,16:52:34.247,Pigeon,LG,0.623s,7,5,0.714,30,42,0.714,false
+46,16:52:35.684,Pigeon,LG,0.537s,11,5,0.455,30,66,0.455,false
+47,16:52:37.021,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+48,16:52:38.823,Pigeon,LG,1.387s,21,5,0.238,30,126,0.238,false
+49,16:52:40.691,Pigeon,LG,1.28s,13,7,0.538,42,78,0.538,false
+50,16:52:41.569,Pigeon,LG,0.21s,5,5,1,30,30,1,false
+51,16:52:43.091,Pigeon,LG,0.537s,11,5,0.455,30,66,0.455,false
+52,16:52:44.190,Pigeon,LG,0.161s,4,4,1,24,24,1,false
+53,16:52:44.428,Pigeon,LG,0.162s,4,4,1,24,24,1,false
+54,16:52:45.903,Pigeon,LG,1.248s,13,5,0.385,30,78,0.385,false
+55,16:52:46.965,Pigeon,LG,0.709s,11,5,0.455,30,66,0.455,false
+56,16:52:49.965,Pigeon,LG,2.447s,38,12,0.316,72,228,0.316,false
+57,16:52:50.522,Pigeon,LG,0.049s,2,1,0.5,6,12,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,486,288,1728.0,2916.0,
+
+Kills:,57
+Deaths:,0
+Fight Time:,30.833
+Avg TTK:,0
+Damage Done:,1728.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,57.0
+Scenario:,bounce 90t easy
+Hash:,2b57378fbc775d6522303ca6480de597
+Game Version:,2.0.3.1
+Challenge Start:,16:51:40.048
+
+Input Lag:,0
+Max FPS (config):,1000.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,210.918289
+Resolution Scale,100.0

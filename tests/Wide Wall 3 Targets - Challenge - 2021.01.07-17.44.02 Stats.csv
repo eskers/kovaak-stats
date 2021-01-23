@@ -1,0 +1,96 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:43:03.834,target,BB Gun,0s,1,1,1,1,1,1,false
+2,17:43:04.707,target,BB Gun,0s,1,1,1,1,1,1,false
+3,17:43:05.478,target,BB Gun,0s,1,1,1,1,1,1,false
+4,17:43:06.382,target,BB Gun,0s,1,1,1,1,1,1,false
+5,17:43:07.196,target,BB Gun,0s,1,1,1,1,1,1,false
+6,17:43:07.937,target,BB Gun,0s,1,1,1,1,1,1,false
+7,17:43:08.859,target,BB Gun,0s,1,1,1,1,1,1,false
+8,17:43:10.149,target,BB Gun,0s,1,1,1,1,1,1,false
+9,17:43:11.583,target,BB Gun,0.712s,2,1,0.5,1,2,0.5,false
+10,17:43:12.185,target,BB Gun,0s,1,1,1,1,1,1,false
+11,17:43:13.186,target,BB Gun,0s,1,1,1,1,1,1,false
+12,17:43:14.138,target,BB Gun,0s,1,1,1,1,1,1,false
+13,17:43:14.760,target,BB Gun,0s,1,1,1,1,1,1,false
+14,17:43:15.906,target,BB Gun,0.283s,2,1,0.5,1,2,0.5,false
+15,17:43:16.746,target,BB Gun,0s,1,1,1,1,1,1,false
+16,17:43:17.608,target,BB Gun,0s,1,1,1,1,1,1,false
+17,17:43:18.482,target,BB Gun,0s,1,1,1,1,1,1,false
+18,17:43:19.435,target,BB Gun,0s,1,1,1,1,1,1,false
+19,17:43:20.365,target,BB Gun,0s,1,1,1,1,1,1,false
+20,17:43:21.378,target,BB Gun,0.001s,1,1,1,1,1,1,false
+21,17:43:22.071,target,BB Gun,0.001s,1,1,1,1,1,1,false
+22,17:43:22.824,target,BB Gun,0s,1,1,1,1,1,1,false
+23,17:43:23.608,target,BB Gun,0s,1,1,1,1,1,1,false
+24,17:43:24.415,target,BB Gun,0s,1,1,1,1,1,1,false
+25,17:43:25.169,target,BB Gun,0.001s,1,1,1,1,1,1,false
+26,17:43:27.317,target,BB Gun,1.527s,3,1,0.333,1,3,0.333,false
+27,17:43:28.119,target,BB Gun,0s,1,1,1,1,1,1,false
+28,17:43:29.795,target,BB Gun,0.723s,2,1,0.5,1,2,0.5,false
+29,17:43:30.898,target,BB Gun,0s,1,1,1,1,1,1,false
+30,17:43:31.627,target,BB Gun,0s,1,1,1,1,1,1,false
+31,17:43:32.591,target,BB Gun,0s,1,1,1,1,1,1,false
+32,17:43:33.302,target,BB Gun,0s,1,1,1,1,1,1,false
+33,17:43:33.942,target,BB Gun,0s,1,1,1,1,1,1,false
+34,17:43:35.016,target,BB Gun,0.249s,2,1,0.5,1,2,0.5,false
+35,17:43:35.799,target,BB Gun,0s,1,1,1,1,1,1,false
+36,17:43:36.474,target,BB Gun,0s,1,1,1,1,1,1,false
+37,17:43:37.284,target,BB Gun,0s,1,1,1,1,1,1,false
+38,17:43:38.007,target,BB Gun,0s,1,1,1,1,1,1,false
+39,17:43:39.436,target,BB Gun,0s,1,1,1,1,1,1,false
+40,17:43:40.141,target,BB Gun,0s,1,1,1,1,1,1,false
+41,17:43:41.565,target,BB Gun,0.703s,3,1,0.333,1,3,0.333,false
+42,17:43:44.736,target,BB Gun,2.387s,4,1,0.25,1,4,0.25,false
+43,17:43:45.537,target,BB Gun,0s,1,1,1,1,1,1,false
+44,17:43:46.230,target,BB Gun,0s,1,1,1,1,1,1,false
+45,17:43:46.895,target,BB Gun,0s,1,1,1,1,1,1,false
+46,17:43:47.775,target,BB Gun,0s,1,1,1,1,1,1,false
+47,17:43:49.126,target,BB Gun,0.338s,2,1,0.5,1,2,0.5,false
+48,17:43:50.573,target,BB Gun,0s,1,1,1,1,1,1,false
+49,17:43:51.314,target,BB Gun,0s,1,1,1,1,1,1,false
+50,17:43:52.115,target,BB Gun,0s,1,1,1,1,1,1,false
+51,17:43:53.116,target,BB Gun,0s,1,1,1,1,1,1,false
+52,17:43:53.869,target,BB Gun,0s,1,1,1,1,1,1,false
+53,17:43:54.924,target,BB Gun,0s,1,1,1,1,1,1,false
+54,17:43:56.443,target,BB Gun,0.538s,2,1,0.5,1,2,0.5,false
+55,17:43:57.445,target,BB Gun,0s,1,1,1,1,1,1,false
+56,17:43:58.813,target,BB Gun,0.766s,2,1,0.5,1,2,0.5,false
+57,17:43:59.531,target,BB Gun,0s,1,1,1,1,1,1,false
+58,17:44:00.386,target,BB Gun,0s,1,1,1,1,1,1,false
+59,17:44:01.037,target,BB Gun,0s,1,1,1,1,1,1,false
+60,17:44:01.761,target,BB Gun,0.001s,1,1,1,1,1,1,false
+61,17:44:02.611,target,BB Gun,0s,1,1,1,1,1,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+BB Gun,75,61,61.0,75.0,
+
+Kills:,61
+Deaths:,0
+Fight Time:,8.23
+Avg TTK:,0
+Damage Done:,61.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,61.0
+Scenario:,Wide Wall 3 Targets
+Hash:,118ce07a35930f9eea725e6e22783c3b
+Game Version:,2.0.3.1
+Challenge Start:,17:43:02.743
+
+Input Lag:,0
+Max FPS (config):,166.0
+Sens Scale:,Valorant
+Horiz Sens:,0.335
+Vert Sens:,0.335
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,165.825302
+Resolution Scale,100.0

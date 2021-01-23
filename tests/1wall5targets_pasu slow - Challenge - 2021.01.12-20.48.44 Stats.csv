@@ -1,0 +1,117 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:47:19.279,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+2,20:47:20.479,test,pistol,0.447s,2,1,0.5,1000,4000,0.25,false
+3,20:47:22.592,test,pistol,1.631s,3,1,0.333,1000,6000,0.167,false
+4,20:47:23.586,test,pistol,0.468s,2,1,0.5,1000,4000,0.25,false
+5,20:47:24.696,test,pistol,0.388s,2,1,0.5,1000,4000,0.25,false
+6,20:47:25.343,test,pistol,0s,1,1,1,1000,2000,0.5,false
+7,20:47:26.608,test,pistol,0s,1,1,1,1000,2000,0.5,false
+8,20:47:28.642,test,pistol,1.372s,2,1,0.5,1000,4000,0.25,false
+9,20:47:31.382,test,pistol,1.798s,3,1,0.333,1000,6000,0.167,false
+10,20:47:32.104,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+11,20:47:33.094,test,pistol,0s,1,1,1,1000,2000,0.5,false
+12,20:47:34.213,test,pistol,0s,1,1,1,1000,2000,0.5,false
+13,20:47:35.127,test,pistol,0s,1,1,1,1000,2000,0.5,false
+14,20:47:35.622,test,pistol,0s,1,1,1,1000,2000,0.5,false
+15,20:47:36.220,test,pistol,0s,1,1,1,1000,2000,0.5,false
+16,20:47:37.123,test,pistol,0s,1,1,1,1000,2000,0.5,false
+17,20:47:38.415,test,pistol,0s,1,1,1,1000,2000,0.5,false
+18,20:47:39.369,test,pistol,0s,1,1,1,1000,2000,0.5,false
+19,20:47:40.280,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+20,20:47:41.215,test,pistol,0s,1,1,1,1000,2000,0.5,false
+21,20:47:41.944,test,pistol,0s,1,1,1,1000,2000,0.5,false
+22,20:47:42.714,test,pistol,0s,1,1,1,1000,2000,0.5,false
+23,20:47:43.396,test,pistol,0s,1,1,1,1000,2000,0.5,false
+24,20:47:45.081,test,pistol,0.62s,2,1,0.5,1000,4000,0.25,false
+25,20:47:46.325,test,pistol,0s,1,1,1,1000,2000,0.5,false
+26,20:47:47.596,test,pistol,0s,1,1,1,1000,2000,0.5,false
+27,20:47:49.795,test,pistol,1.506s,2,1,0.5,1000,4000,0.25,false
+28,20:47:50.793,test,pistol,0s,1,1,1,1000,2000,0.5,false
+29,20:47:52.621,test,pistol,1.053s,3,1,0.333,1000,6000,0.167,false
+30,20:47:53.414,test,pistol,0s,1,1,1,1000,2000,0.5,false
+31,20:47:54.446,test,pistol,0s,1,1,1,1000,2000,0.5,false
+32,20:47:55.159,test,pistol,0s,1,1,1,1000,2000,0.5,false
+33,20:47:55.842,test,pistol,0.313s,2,1,0.5,1000,4000,0.25,false
+34,20:47:56.496,test,pistol,0s,1,1,1,1000,2000,0.5,false
+35,20:47:58.068,test,pistol,0.742s,2,1,0.5,1000,4000,0.25,false
+36,20:47:58.889,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+37,20:47:59.703,test,pistol,0s,1,1,1,1000,2000,0.5,false
+38,20:48:01.622,test,pistol,0.965s,3,1,0.333,1000,6000,0.167,false
+39,20:48:02.099,test,pistol,0s,1,1,1,1000,2000,0.5,false
+40,20:48:04.169,test,pistol,1.317s,3,1,0.333,1000,6000,0.167,false
+41,20:48:05.423,test,pistol,0s,1,1,1,1000,2000,0.5,false
+42,20:48:06.023,test,pistol,0s,1,1,1,1000,2000,0.5,false
+43,20:48:07.539,test,pistol,0.571s,2,1,0.5,1000,4000,0.25,false
+44,20:48:08.438,test,pistol,0s,1,1,1,1000,2000,0.5,false
+45,20:48:09.235,test,pistol,0s,1,1,1,1000,2000,0.5,false
+46,20:48:10.354,test,pistol,0.552s,2,1,0.5,1000,4000,0.25,false
+47,20:48:11.031,test,pistol,0s,1,1,1,1000,2000,0.5,false
+48,20:48:11.779,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+49,20:48:13.033,test,pistol,0s,1,1,1,1000,2000,0.5,false
+50,20:48:13.494,test,pistol,0s,1,1,1,1000,2000,0.5,false
+51,20:48:14.548,test,pistol,0s,1,1,1,1000,2000,0.5,false
+52,20:48:14.947,test,pistol,0s,1,1,1,1000,2000,0.5,false
+53,20:48:15.713,test,pistol,0s,1,1,1,1000,2000,0.5,false
+54,20:48:17.025,test,pistol,0.281s,2,1,0.5,1000,4000,0.25,false
+55,20:48:18.271,test,pistol,0.524s,2,1,0.5,1000,4000,0.25,false
+56,20:48:19.151,test,pistol,0s,1,1,1,1000,2000,0.5,false
+57,20:48:20.794,test,pistol,0.582s,2,1,0.5,1000,4000,0.25,false
+58,20:48:22.192,test,pistol,0.867s,3,1,0.333,1000,6000,0.167,false
+59,20:48:23.628,test,pistol,1.087s,3,1,0.333,1000,6000,0.167,false
+60,20:48:25.509,test,pistol,0s,1,1,1,1000,2000,0.5,false
+61,20:48:26.441,test,pistol,0s,1,1,1,1000,2000,0.5,false
+62,20:48:27.027,test,pistol,0s,1,1,1,1000,2000,0.5,false
+63,20:48:28.597,test,pistol,0s,1,1,1,1000,2000,0.5,false
+64,20:48:29.671,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+65,20:48:30.351,test,pistol,0s,1,1,1,1000,2000,0.5,false
+66,20:48:31.183,test,pistol,0s,1,1,1,1000,2000,0.5,false
+67,20:48:31.816,test,pistol,0s,1,1,1,1000,2000,0.5,false
+68,20:48:32.589,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+69,20:48:33.152,test,pistol,0s,1,1,1,1000,2000,0.5,false
+70,20:48:33.501,test,pistol,0s,1,1,1,1000,2000,0.5,false
+71,20:48:33.993,test,pistol,0s,1,1,1,1000,2000,0.5,false
+72,20:48:34.667,test,pistol,0s,1,1,1,1000,2000,0.5,false
+73,20:48:36.046,test,pistol,0.384s,2,1,0.5,1000,4000,0.25,false
+74,20:48:37.562,test,pistol,0.847s,3,1,0.333,1000,6000,0.167,false
+75,20:48:38.834,test,pistol,0.621s,2,1,0.5,1000,4000,0.25,false
+76,20:48:39.580,test,pistol,0s,1,1,1,1000,2000,0.5,false
+77,20:48:40.409,test,pistol,0s,1,1,1,1000,2000,0.5,false
+78,20:48:40.895,test,pistol,0s,1,1,1,1000,2000,0.5,false
+79,20:48:41.454,test,pistol,0s,1,1,1,1000,2000,0.5,false
+80,20:48:42.223,test,pistol,0s,1,1,1,1000,2000,0.5,false
+81,20:48:42.950,test,pistol,0.261s,2,1,0.5,1000,4000,0.25,false
+82,20:48:43.764,test,pistol,0s,1,1,1,1000,2000,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,114,82,82000.0,228000.0,
+
+Kills:,82
+Deaths:,0
+Fight Time:,19.204
+Avg TTK:,0
+Damage Done:,82000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,82.0
+Scenario:,1wall5targets_pasu slow
+Hash:,34d01e2d8031855ba42b1084bdb1ccc2
+Game Version:,2.0.3.1
+Challenge Start:,20:47:18.440
+
+Input Lag:,0
+Max FPS (config):,1000.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,235.393692
+Resolution Scale,100.0

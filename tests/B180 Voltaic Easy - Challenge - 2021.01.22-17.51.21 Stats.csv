@@ -1,0 +1,65 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:50:22.086,Low,pistol,0s,1,1,1,50,125,0.4,false
+2,17:50:23.930,Mid,pistol,1.143s,3,1,0.333,50,375,0.133,false
+3,17:50:24.752,Low,pistol,0s,1,1,1,50,125,0.4,false
+4,17:50:25.944,Mid,pistol,0s,1,1,1,50,125,0.4,false
+5,17:50:28.189,Mid,pistol,1.229s,2,1,0.5,50,250,0.2,false
+6,17:50:29.404,High,pistol,0s,1,1,1,50,125,0.4,false
+7,17:50:31.739,High,pistol,1.243s,3,1,0.333,50,375,0.133,false
+8,17:50:34.448,Mid,pistol,1.585s,3,1,0.333,50,375,0.133,false
+9,17:50:35.567,Low,pistol,0s,1,1,1,50,125,0.4,false
+10,17:50:39.697,High,pistol,3.289s,4,1,0.25,50,500,0.1,false
+11,17:50:41.002,Mid,pistol,0s,1,1,1,50,125,0.4,false
+12,17:50:43.756,High,pistol,1.205s,2,1,0.5,50,250,0.2,false
+13,17:50:48.085,Mid,pistol,3.719s,4,1,0.25,50,500,0.1,false
+14,17:50:49.417,Mid,pistol,0s,1,1,1,50,125,0.4,false
+15,17:50:51.670,Low,pistol,0.984s,2,1,0.5,50,250,0.2,false
+16,17:50:54.235,Mid,pistol,1.342s,2,1,0.5,50,250,0.2,false
+17,17:50:55.688,Mid,pistol,0s,1,1,1,50,125,0.4,false
+18,17:50:57.241,Mid,pistol,0s,1,1,1,50,125,0.4,false
+19,17:51:02.624,Low,pistol,4.16s,6,1,0.167,50,750,0.067,false
+20,17:51:03.421,High,pistol,0s,1,1,1,50,125,0.4,false
+21,17:51:03.979,Mid,pistol,0s,1,1,1,50,125,0.4,false
+22,17:51:04.662,High,pistol,0s,1,1,1,50,125,0.4,false
+23,17:51:05.684,Mid,pistol,0s,1,1,1,50,125,0.4,false
+24,17:51:06.615,Low,pistol,0s,1,1,1,50,125,0.4,false
+25,17:51:07.238,Mid,pistol,0s,1,1,1,50,125,0.4,false
+26,17:51:07.833,Mid,pistol,0s,1,1,1,50,125,0.4,false
+27,17:51:14.011,Low,pistol,5.688s,7,1,0.143,50,875,0.057,false
+28,17:51:15.386,Mid,pistol,0.675s,2,1,0.5,50,250,0.2,false
+29,17:51:16.863,High,pistol,0.564s,2,1,0.5,50,250,0.2,false
+30,17:51:19.574,Mid,pistol,1.682s,2,1,0.5,50,250,0.2,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,60,30,1500.0,7500.0,
+
+Kills:,30
+Deaths:,0
+Fight Time:,28.507999
+Avg TTK:,0
+Damage Done:,1500.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,30.0
+Scenario:,B180 Voltaic Easy
+Hash:,b68f1591dc268a022956ca3e33e67a29
+Game Version:,2.0.3.2
+Challenge Start:,17:50:21.072
+
+Input Lag:,0
+Max FPS (config):,0.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,0.7
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,221.293289
+Resolution Scale,100.0

@@ -1,0 +1,72 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:24:59.802,Quaker Bot Long Strafes,MGV2,0.769s,26,10,0.385,1.001,5.205,0.192,false
+2,19:25:00.796,Quaker Bot Long Strafes,MGV2,0.457s,16,10,0.625,1.001,3.203,0.312,false
+3,19:25:02.738,Quaker Bot Long Strafes,MGV2,1.36s,45,10,0.222,1.001,9.009,0.111,false
+4,19:25:04.220,Quaker Bot Long Strafes,MGV2,0.742s,25,10,0.4,1.001,5.005,0.2,false
+5,19:25:05.065,Quaker Bot Long Strafes,MGV2,0.278s,10,10,1,1.001,2.002,0.5,false
+6,19:25:07.966,Quaker Bot Long Strafes,MGV2,1.994s,61,10,0.164,1.001,12.212,0.082,false
+7,19:25:09.291,Quaker Bot Long Strafes,MGV2,0.755s,22,10,0.455,1.001,4.404,0.227,false
+8,19:25:11.747,Quaker Bot Long Strafes,MGV2,1.606s,53,10,0.189,1.001,10.611,0.094,false
+9,19:25:13.009,Quaker Bot Long Strafes,MGV2,0.645s,22,10,0.455,1.001,4.404,0.227,false
+10,19:25:14.160,Quaker Bot Long Strafes,MGV2,0.554s,19,10,0.526,1.001,3.804,0.263,false
+11,19:25:15.531,Quaker Bot Long Strafes,MGV2,0.805s,27,10,0.37,1.001,5.405,0.185,false
+12,19:25:17.012,Quaker Bot Long Strafes,MGV2,0.804s,27,10,0.37,1.001,5.405,0.185,false
+13,19:25:18.145,Quaker Bot Long Strafes,MGV2,0.678s,23,10,0.435,1.001,4.605,0.217,false
+14,19:25:19.020,Quaker Bot Long Strafes,MGV2,0.308s,11,10,0.909,1.001,2.202,0.455,false
+15,19:25:22.401,Quaker Bot Long Strafes,MGV2,2.703s,83,21,0.253,2.102,16.617,0.127,false
+16,19:25:23.445,Quaker Bot Long Strafes,MGV2,0.368s,13,1,0.077,0.1,2.603,0.038,false
+17,19:25:25.353,Quaker Bot Long Strafes,MGV2,1.172s,39,11,0.282,1.101,7.808,0.141,false
+18,19:25:26.007,Quaker Bot Long Strafes,MGV2,0.404s,14,7,0.5,0.701,2.803,0.25,false
+19,19:25:27.611,Quaker Bot Long Strafes,MGV2,0.99s,33,10,0.303,1.001,6.607,0.152,false
+20,19:25:28.843,Quaker Bot Long Strafes,MGV2,0.646s,22,10,0.455,1.001,4.404,0.227,false
+21,19:25:30.423,Quaker Bot Long Strafes,MGV2,0.768s,26,10,0.385,1.001,5.205,0.192,false
+22,19:25:32.844,Quaker Bot Long Strafes,MGV2,1.956s,62,10,0.161,1.001,12.412,0.081,false
+23,19:25:34.876,Quaker Bot Long Strafes,MGV2,1.609s,53,10,0.189,1.001,10.611,0.094,false
+24,19:25:35.961,Quaker Bot Long Strafes,MGV2,0.619s,21,10,0.476,1.001,4.204,0.238,false
+25,19:25:37.626,Quaker Bot Long Strafes,MGV2,0.959s,32,11,0.344,1.101,6.406,0.172,false
+26,19:25:38.464,Quaker Bot Long Strafes,MGV2,0.561s,19,10,0.526,1.001,3.804,0.263,false
+27,19:25:40.723,Quaker Bot Long Strafes,MGV2,1.762s,58,10,0.172,1.001,11.612,0.086,false
+28,19:25:42.248,Quaker Bot Long Strafes,MGV2,0.923s,31,9,0.29,0.901,6.206,0.145,false
+29,19:25:43.732,Quaker Bot Long Strafes,MGV2,0.836s,28,10,0.357,1.001,5.606,0.179,false
+30,19:25:44.833,Quaker Bot Long Strafes,MGV2,0.647s,22,10,0.455,1.001,4.404,0.227,false
+31,19:25:46.102,Quaker Bot Long Strafes,MGV2,0.741s,25,10,0.4,1.001,5.005,0.2,false
+32,19:25:47.767,Quaker Bot Long Strafes,MGV2,1.113s,37,10,0.27,1.001,7.407,0.135,false
+33,19:25:49.372,Quaker Bot Long Strafes,MGV2,1.263s,42,10,0.238,1.001,8.408,0.119,false
+34,19:25:51.086,Quaker Bot Long Strafes,MGV2,1.174s,39,10,0.256,1.001,7.808,0.128,false
+35,19:25:53.501,Quaker Bot Long Strafes,MGV2,2.076s,68,11,0.162,1.101,13.614,0.081,false
+36,19:25:55.316,Quaker Bot Long Strafes,MGV2,1.55s,51,9,0.176,0.901,10.21,0.088,false
+37,19:25:57.095,Quaker Bot Long Strafes,MGV2,0.799s,27,10,0.37,1.001,5.405,0.185,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+MGV2,1264,370,37.036972,253.050613,
+
+Kills:,37
+Deaths:,0
+Fight Time:,37.394001
+Avg TTK:,0
+Damage Done:,37.036972
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,37.036972
+Scenario:,kinTS Voltaic Easy
+Hash:,50613b17862fda5ee6611d4317895052
+Game Version:,2.0.3.1
+Challenge Start:,19:24:58.237
+
+Input Lag:,0
+Max FPS (config):,166.0
+Sens Scale:,Valorant
+Horiz Sens:,0.335
+Vert Sens:,0.335
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,164.772781
+Resolution Scale,100.0

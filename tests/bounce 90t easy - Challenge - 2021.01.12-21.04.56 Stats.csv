@@ -1,0 +1,101 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:03:46.037,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+2,21:03:47.063,Pigeon,LG,0.894s,10,6,0.6,36,60,0.6,false
+3,21:03:47.753,Pigeon,LG,0.318s,7,4,0.571,24,42,0.571,false
+4,21:03:48.766,Pigeon,LG,0.208s,5,5,1,30,30,1,false
+5,21:03:49.926,Pigeon,LG,0.375s,8,5,0.625,30,48,0.625,false
+6,21:03:52.166,Pigeon,LG,1.827s,28,8,0.286,48,168,0.286,false
+7,21:03:53.245,Pigeon,LG,0.854s,8,5,0.625,30,48,0.625,false
+8,21:03:54.044,Pigeon,LG,0.374s,8,5,0.625,30,48,0.625,false
+9,21:03:54.610,Pigeon,LG,0.053s,2,2,1,12,12,1,false
+10,21:03:55.690,Pigeon,LG,0.378s,8,5,0.625,30,48,0.625,false
+11,21:03:56.436,Pigeon,LG,0.373s,8,5,0.625,30,48,0.625,false
+12,21:03:56.963,Pigeon,LG,0.43s,9,5,0.556,30,54,0.556,false
+13,21:03:57.554,Pigeon,LG,0.27s,6,5,0.833,30,36,0.833,false
+14,21:03:58.174,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+15,21:03:58.777,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+16,21:04:00.145,Pigeon,LG,0.865s,17,9,0.529,54,102,0.529,false
+17,21:04:00.388,Pigeon,LG,0.164s,4,4,1,24,24,1,false
+18,21:04:01.063,Pigeon,LG,0.454s,7,2,0.286,12,42,0.286,false
+19,21:04:03.475,Pigeon,LG,1.869s,33,5,0.152,30,198,0.152,false
+20,21:04:04.363,Pigeon,LG,0.323s,7,5,0.714,30,42,0.714,false
+21,21:04:06.551,Pigeon,LG,1.928s,32,9,0.281,54,192,0.281,false
+22,21:04:07.716,Pigeon,LG,0.54s,11,5,0.455,30,66,0.455,false
+23,21:04:08.345,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+24,21:04:09.045,Pigeon,LG,0.212s,5,1,0.2,6,30,0.2,false
+25,21:04:09.671,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+26,21:04:10.789,Pigeon,LG,0.43s,9,5,0.556,30,54,0.556,false
+27,21:04:12.725,Pigeon,LG,1.173s,21,5,0.238,30,126,0.238,false
+28,21:04:14.221,Pigeon,LG,0.824s,13,5,0.385,30,78,0.385,false
+29,21:04:15.045,Pigeon,LG,0.269s,6,5,0.833,30,36,0.833,false
+30,21:04:15.702,Pigeon,LG,0.268s,6,5,0.833,30,36,0.833,false
+31,21:04:16.602,Pigeon,LG,0.268s,6,5,0.833,30,36,0.833,false
+32,21:04:18.256,Pigeon,LG,1.187s,23,5,0.217,30,138,0.217,false
+33,21:04:19.226,Pigeon,LG,0.439s,8,5,0.625,30,48,0.625,false
+34,21:04:20.229,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+35,21:04:22.093,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+36,21:04:22.690,Pigeon,LG,0.432s,7,5,0.714,30,42,0.714,false
+37,21:04:24.038,Pigeon,LG,1.02s,8,5,0.625,30,48,0.625,false
+38,21:04:24.570,Pigeon,LG,0.395s,7,5,0.714,30,42,0.714,false
+39,21:04:26.364,Pigeon,LG,0.961s,15,5,0.333,30,90,0.333,false
+40,21:04:27.947,Pigeon,LG,1.185s,19,7,0.368,42,114,0.368,false
+41,21:04:29.081,Pigeon,LG,0.665s,11,3,0.273,18,66,0.273,false
+42,21:04:30.470,Pigeon,LG,0.781s,14,5,0.357,30,84,0.357,false
+43,21:04:31.188,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+44,21:04:32.188,Pigeon,LG,0.593s,12,5,0.417,30,72,0.417,false
+45,21:04:34.055,Pigeon,LG,1.258s,22,5,0.227,30,132,0.227,false
+46,21:04:35.400,Pigeon,LG,0.538s,11,5,0.455,30,66,0.455,false
+47,21:04:36.862,Pigeon,LG,0.968s,19,8,0.421,48,114,0.421,false
+48,21:04:37.639,Pigeon,LG,0.721s,8,6,0.75,36,48,0.75,false
+49,21:04:37.871,Pigeon,LG,0.054s,2,2,1,12,12,1,false
+50,21:04:38.954,Pigeon,LG,0.482s,10,4,0.4,24,60,0.4,false
+51,21:04:39.969,Pigeon,LG,0.318s,7,5,0.714,30,42,0.714,false
+52,21:04:40.828,Pigeon,LG,0.321s,7,5,0.714,30,42,0.714,false
+53,21:04:42.201,Pigeon,LG,0.757s,15,5,0.333,30,90,0.333,false
+54,21:04:42.870,Pigeon,LG,0.319s,7,5,0.714,30,42,0.714,false
+55,21:04:43.644,Pigeon,LG,0.485s,10,6,0.6,36,60,0.6,false
+56,21:04:44.294,Pigeon,LG,0.489s,10,4,0.4,24,60,0.4,false
+57,21:04:45.865,Pigeon,LG,0.591s,12,5,0.417,30,72,0.417,false
+58,21:04:46.748,Pigeon,LG,0.324s,7,5,0.714,30,42,0.714,false
+59,21:04:49.046,Pigeon,LG,1.782s,34,8,0.235,48,204,0.235,false
+60,21:04:49.873,Pigeon,LG,0.267s,6,4,0.667,24,36,0.667,false
+61,21:04:50.412,Pigeon,LG,0.104s,3,3,1,18,18,1,false
+62,21:04:51.304,Pigeon,LG,0.374s,8,5,0.625,30,48,0.625,false
+63,21:04:52.000,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+64,21:04:52.578,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+65,21:04:54.214,Pigeon,LG,0.968s,19,5,0.263,30,114,0.263,false
+66,21:04:54.982,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,690,335,2010.0,4140.0,
+
+Kills:,67
+Deaths:,0
+Fight Time:,37.549
+Avg TTK:,0
+Damage Done:,2010.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,67.0
+Scenario:,bounce 90t easy
+Hash:,2b57378fbc775d6522303ca6480de597
+Game Version:,2.0.3.1
+Challenge Start:,21:03:45.413
+
+Input Lag:,0
+Max FPS (config):,1000.0
+Sens Scale:,Valorant
+Horiz Sens:,0.61
+Vert Sens:,0.61
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,197.29126
+Resolution Scale,100.0

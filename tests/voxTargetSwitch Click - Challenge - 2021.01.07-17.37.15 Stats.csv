@@ -1,0 +1,77 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:36:18.007,Quaker Bot Long Strafes,pistol,1.932s,4,1,0.25,100,800,0.125,false
+2,17:36:18.714,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+3,17:36:20.222,Quaker Bot Long Strafes,pistol,0.886s,3,1,0.333,100,600,0.167,false
+4,17:36:20.922,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+5,17:36:22.208,Quaker Bot Long Strafes,pistol,0.3s,2,1,0.5,100,400,0.25,false
+6,17:36:23.090,Quaker Bot Long Strafes,pistol,0.001s,1,1,1,100,200,0.5,false
+7,17:36:23.961,Quaker Bot Long Strafes,pistol,0.001s,1,1,1,100,200,0.5,false
+8,17:36:24.355,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+9,17:36:25.050,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+10,17:36:25.508,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+11,17:36:27.113,Quaker Bot Long Strafes,pistol,0.671s,2,1,0.5,100,400,0.25,false
+12,17:36:27.536,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+13,17:36:28.779,Quaker Bot Long Strafes,pistol,0.673s,2,1,0.5,100,400,0.25,false
+14,17:36:29.511,Quaker Bot Long Strafes,pistol,0.001s,1,1,1,100,200,0.5,false
+15,17:36:30.405,Quaker Bot Long Strafes,pistol,0.001s,1,1,1,100,200,0.5,false
+16,17:36:31.066,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+17,17:36:32.231,Quaker Bot Long Strafes,pistol,0.392s,2,1,0.5,100,400,0.25,false
+18,17:36:35.818,Quaker Bot Long Strafes,pistol,3.163s,6,1,0.167,100,1200,0.083,false
+19,17:36:36.838,Quaker Bot Long Strafes,pistol,0.289s,2,1,0.5,100,400,0.25,false
+20,17:36:38.580,Quaker Bot Long Strafes,pistol,1.011s,2,1,0.5,100,400,0.25,false
+21,17:36:39.396,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+22,17:36:41.149,Quaker Bot Long Strafes,pistol,0.859s,2,1,0.5,100,400,0.25,false
+23,17:36:42.125,Quaker Bot Long Strafes,pistol,0.444s,2,1,0.5,100,400,0.25,false
+24,17:36:42.875,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+25,17:36:44.152,Quaker Bot Long Strafes,pistol,0.526s,2,1,0.5,100,400,0.25,false
+26,17:36:44.870,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+27,17:36:45.544,Quaker Bot Long Strafes,pistol,0.001s,1,1,1,100,200,0.5,false
+28,17:36:47.490,Quaker Bot Long Strafes,pistol,1.191s,3,1,0.333,100,600,0.167,false
+29,17:36:50.300,Quaker Bot Long Strafes,pistol,1.934s,3,1,0.333,100,600,0.167,false
+30,17:36:52.406,Quaker Bot Long Strafes,pistol,1.484s,3,1,0.333,100,600,0.167,false
+31,17:36:53.051,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+32,17:36:55.416,Quaker Bot Long Strafes,pistol,1.195s,3,1,0.333,100,600,0.167,false
+33,17:36:58.634,Quaker Bot Long Strafes,pistol,2.546s,4,1,0.25,100,800,0.125,false
+34,17:36:59.891,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+35,17:37:00.291,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+36,17:37:03.170,Quaker Bot Long Strafes,pistol,2.142s,4,1,0.25,100,800,0.125,false
+37,17:37:04.045,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+38,17:37:04.994,Quaker Bot Long Strafes,pistol,0.001s,1,1,1,100,200,0.5,false
+39,17:37:09.430,Quaker Bot Long Strafes,pistol,3.434s,6,1,0.167,100,1200,0.083,false
+40,17:37:12.500,Quaker Bot Long Strafes,pistol,2.278s,4,1,0.25,100,800,0.125,false
+41,17:37:13.954,Quaker Bot Long Strafes,pistol,0.784s,2,1,0.5,100,400,0.25,false
+42,17:37:14.777,Quaker Bot Long Strafes,pistol,0s,1,1,1,100,200,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,84,42,4200.0,16800.0,
+
+Kills:,42
+Deaths:,0
+Fight Time:,28.139999
+Avg TTK:,0
+Damage Done:,4200.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,42.0
+Scenario:,voxTargetSwitch Click
+Hash:,279398278b4f2bfff3bba6ff0d14e921
+Game Version:,2.0.3.1
+Challenge Start:,17:36:15.218
+
+Input Lag:,0
+Max FPS (config):,166.0
+Sens Scale:,Valorant
+Horiz Sens:,0.335
+Vert Sens:,0.335
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,emptyplus.png
+Crosshair Scale:,1.0
+Crosshair Color:,11FF00
+Resolution,2560x1440
+Avg FPS,165.120361
+Resolution Scale,100.0
