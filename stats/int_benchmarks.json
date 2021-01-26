@@ -1,110 +1,110 @@
 {
-   "Pasu Voltaic Easy": {
-      "Silver": 57,
-      "Gold": 64,
-      "Platinum": 75,
-      "Diamond": 85
-   },
-   "B180 Voltaic Easy": {
-      "Silver": 56,
-      "Gold": 65,
-      "Platinum": 72,
-      "Diamond": 82
-   },
-   "Popcorn Voltaic Easy": {
-      "Silver": 150,
-      "Gold": 200,
-      "Platinum": 250,
-      "Diamond": 310
-   },
-   "ww3t Voltaic": {
-      "Silver": 95,
-      "Gold": 105,
-      "Platinum": 115,
-      "Diamond": 125
-   },
-   "1w4ts Voltaic": {
-      "Silver": 82,
-      "Gold": 91,
-      "Platinum": 100,
-      "Diamond": 110
-   },
-   "6 Sphere Hipfire Voltaic": {
-      "Silver": 108,
-      "Gold": 120,
-      "Platinum": 132,
-      "Diamond": 142
-   },
-   "Smoothbot Voltaic Easy": {
-      "Silver": 2100,
-      "Gold": 2400,
-      "Platinum": 2800,
-      "Diamond": 3100
-   },
-   "Air Angelic 4 Voltaic Easy": {
-      "Silver": 2200,
-      "Gold": 2600,
-      "Platinum": 3000,
-      "Diamond": 3300
-   },
-   "PGTI Voltaic Easy": {
-      "Silver": 1000,
-      "Gold": 1300,
-      "Platinum": 1600,
-      "Diamond": 1900
-   },
-   "FuglaaXYZ Voltaic Easy": {
-      "Silver": 8500,
-      "Gold": 10000,
-      "Platinum": 12000,
-      "Diamond": 14000
-   },
-   "Ground Plaza Voltaic Easy": {
-      "Silver": 845,
-      "Gold": 855,
-      "Platinum": 870,
-      "Diamond": 880
-   },
-   "Air Voltaic Easy": {
-      "Silver": 800,
-      "Gold": 825,
-      "Platinum": 850,
-      "Diamond": 863
-   },
-   "patTS Voltaic Easy": {
-      "Silver": 69,
-      "Gold": 75,
-      "Platinum": 81,
-      "Diamond": 88
-   },
-   "psalmTS Voltaic Easy": {
-      "Silver": 58,
-      "Gold": 67,
-      "Platinum": 76,
-      "Diamond": 85
-   },
-   "voxTS Voltaic Easy": {
-      "Silver": 78,
-      "Gold": 86,
-      "Platinum": 96,
-      "Diamond": 105
-   },
-   "kinTS Voltaic Easy": {
-      "Silver": 54,
-      "Gold": 60,
-      "Platinum": 66,
-      "Diamond": 72
-   },
-   "B180T Voltaic Easy": {
-      "Silver": 46,
-      "Gold": 55,
-      "Platinum": 64,
-      "Diamond": 72
-   },
-   "Smoothbot TS Voltaic Easy": {
-      "Silver": 42,
-      "Gold": 46,
-      "Platinum": 50,
-      "Diamond": 54
-   }
+    "Pasu Voltaic Easy": {
+        "Silver": 57,
+        "Gold": 64,
+        "Platinum": 75,
+        "Diamond": 85
+    },
+    "B180 Voltaic Easy": {
+        "Silver": 56,
+        "Gold": 65,
+        "Platinum": 72,
+        "Diamond": 82
+    },
+    "Popcorn Voltaic Easy": {
+        "Silver": 150,
+        "Gold": 200,
+        "Platinum": 250,
+        "Diamond": 310
+    },
+    "ww3t Voltaic": {
+        "Silver": 95,
+        "Gold": 105,
+        "Platinum": 115,
+        "Diamond": 125
+    },
+    "1w4ts Voltaic": {
+        "Silver": 82,
+        "Gold": 91,
+        "Platinum": 100,
+        "Diamond": 110
+    },
+    "6 Sphere Hipfire Voltaic": {
+        "Silver": 108,
+        "Gold": 120,
+        "Platinum": 132,
+        "Diamond": 142
+    },
+    "Smoothbot Voltaic Easy": {
+        "Silver": 2100,
+        "Gold": 2400,
+        "Platinum": 2800,
+        "Diamond": 3100
+    },
+    "Air Angelic 4 Voltaic Easy": {
+        "Silver": 2200,
+        "Gold": 2600,
+        "Platinum": 3000,
+        "Diamond": 3300
+    },
+    "PGTI Voltaic Easy": {
+        "Silver": 1000,
+        "Gold": 1300,
+        "Platinum": 1600,
+        "Diamond": 1900
+    },
+    "FuglaaXYZ Voltaic Easy": {
+        "Silver": 8500,
+        "Gold": 10000,
+        "Platinum": 12000,
+        "Diamond": 14000
+    },
+    "Ground Plaza Voltaic Easy": {
+        "Silver": 845,
+        "Gold": 855,
+        "Platinum": 870,
+        "Diamond": 880
+    },
+    "Air Voltaic Easy": {
+        "Silver": 800,
+        "Gold": 825,
+        "Platinum": 850,
+        "Diamond": 863
+    },
+    "patTS Voltaic Easy": {
+        "Silver": 69,
+        "Gold": 75,
+        "Platinum": 81,
+        "Diamond": 88
+    },
+    "psalmTS Voltaic Easy": {
+        "Silver": 58,
+        "Gold": 67,
+        "Platinum": 76,
+        "Diamond": 85
+    },
+    "voxTS Voltaic Easy": {
+        "Silver": 78,
+        "Gold": 86,
+        "Platinum": 96,
+        "Diamond": 105
+    },
+    "kinTS Voltaic Easy": {
+        "Silver": 54,
+        "Gold": 60,
+        "Platinum": 66,
+        "Diamond": 72
+    },
+    "B180T Voltaic Easy": {
+        "Silver": 46,
+        "Gold": 55,
+        "Platinum": 64,
+        "Diamond": 72
+    },
+    "Smoothbot TS Voltaic Easy": {
+        "Silver": 42,
+        "Gold": 46,
+        "Platinum": 50,
+        "Diamond": 54
+    }
 }
