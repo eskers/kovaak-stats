@@ -49,7 +49,9 @@ def get_stats(scenario_files):
                     datetime_str = datetime_str[:11] + row[1]
 
         datetime_obj = datetime.datetime.strptime(datetime_str, "%Y.%m.%d %H:%M:%S.%f")
-        challenge_stats = (datetime_obj, challenge_score)
+        title_datetime = {"Date:": datetime_obj}
+        title_score = {"Score:":  challenge_score}
+        challenge_stats = (title_datetime, title_score)
         scenarios_stats.append(challenge_stats)
 
     return scenarios_stats
@@ -105,5 +107,6 @@ int_benchmark_scenarios = (
 
 # Test code
 kovaak_stats = scenario_file_paths(STATS_DIR, int_benchmark_scenarios)
-a = get_stats(kovaak_stats["patTS Voltaic Easy"])
-print(a)
+a = mult_scen_get_stats(kovaak_stats)
+
+write_json(a)
