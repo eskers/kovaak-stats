@@ -3,6 +3,7 @@
 import os
 import csv
 import datetime
+import json
 
 
 def scenario_file_paths(path, scenarios):
@@ -53,6 +54,16 @@ def get_stats(scenario_files):
         print(type(challenge_score))
 
     return scenarios_stats
+
+
+def write_json(data_object):
+    """Writes python data_object to a json file.
+
+    Keyword arguments:
+    data_object -- any python data object??????
+    """
+    with open("data.json", "w", encoding="utf-8") as jsonfile:
+        json.dump(data_object, jsonfile, ensure_ascii=False, indent=4, default=str)
 
 
 # Temp variables for testing
