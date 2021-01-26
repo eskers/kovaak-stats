@@ -51,9 +51,23 @@ def get_stats(scenario_files):
         datetime_obj = datetime.datetime.strptime(datetime_str, "%Y.%m.%d %H:%M:%S.%f")
         challenge_stats = (datetime_obj, challenge_score)
         scenarios_stats.append(challenge_stats)
-        print(type(challenge_score))
 
     return scenarios_stats
+
+
+def mult_scen_get_stats(dict_scen_paths):
+    """
+    Runs get_stats() for multiple scenarios, return dictionary with the scenario as the
+    key and get_stats() list as values
+
+    Keyword arguments:
+    dict_scen_paths -- Dictionary with keys of scenario names and values of filepaths
+    """
+    stats_dict = {}
+    for key in dict_scen_paths:
+        stats_dict[key] = get_stats(dict_scen_paths[key])
+
+    return stats_dict
 
 
 def write_json(data_object):
