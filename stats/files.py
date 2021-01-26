@@ -3,6 +3,7 @@
 import os
 import csv
 import datetime
+import json
 
 
 def scenario_file_paths(path, scenarios):
@@ -48,11 +49,37 @@ def get_stats(scenario_files):
                     datetime_str = datetime_str[:11] + row[1]
 
         datetime_obj = datetime.datetime.strptime(datetime_str, "%Y.%m.%d %H:%M:%S.%f")
-        challenge_stats = (datetime_obj, challenge_score)
+        title_datetime = {"Date:": datetime_obj}
+        title_score = {"Score:":  challenge_score}
+        challenge_stats = (title_datetime, title_score)
         scenarios_stats.append(challenge_stats)
-        print(type(challenge_score))
 
     return scenarios_stats
+
+
+def mult_scen_get_stats(dict_scen_paths):
+    """
+    Runs get_stats() for multiple scenarios, return dictionary with the scenario as the
+    key and get_stats() list as values
+
+    Keyword arguments:
+    dict_scen_paths -- Dictionary with keys of scenario names and values of filepaths
+    """
+    stats_dict = {}
+    for key in dict_scen_paths:
+        stats_dict[key] = get_stats(dict_scen_paths[key])
+
+    return stats_dict
+
+
+def write_json(data_object):
+    """Writes python data_object to a json file.
+
+    Keyword arguments:
+    data_object -- any python data object??????
+    """
+    with open("data.json", "w", encoding="utf-8") as jsonfile:
+        json.dump(data_object, jsonfile, ensure_ascii=False, indent=4, default=str)
 
 
 # Temp variables for testing
@@ -80,5 +107,6 @@ int_benchmark_scenarios = (
 
 # Test code
 kovaak_stats = scenario_file_paths(STATS_DIR, int_benchmark_scenarios)
-a = get_stats(kovaak_stats["patTS Voltaic Easy"])
-print(a)
+a = mult_scen_get_stats(kovaak_stats)
+
+write_json(a)
